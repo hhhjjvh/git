@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605fd6f0effa6f24481dc2eb94d1132f, type: 3}
+  m_Name: "\u7CBE\u7075"
+  m_EditorClassIdentifier: 
+  systemType: 1
+  nodes:
+  - {fileID: 11400000, guid: 489f942697767c64a82eeed762d00eec, type: 2}
+  - {fileID: 11400000, guid: 3aef8b1249788c54d9a1c66a5b6b9cb2, type: 2}
+  - {fileID: 11400000, guid: 4611d500979371143abb3808f6091b06, type: 2}
+  dialogueData: 
+  cachedLines: []
+  events: []
+  hasName: 1
+  EndscriptableEffects: []

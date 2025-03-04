@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605fd6f0effa6f24481dc2eb94d1132f, type: 3}
+  m_Name: "\u5546\u4EBA"
+  m_EditorClassIdentifier: 
+  systemType: 0
+  nodes: []
+  dialogueData: "n-\u65C5\u884C\u5546\u4EBA/n\r\n\u6B22\u8FCE\u6765\u5230\u79FB\u52A8\u5546\u5E97\uFF01/n\r\n\u9700\u8981\u770B\u770B\u4ECA\u5929\u7684\u7279\u4EF7\u5546\u54C1\u5417\uFF1F/n\r\nn-\u73A9\u5BB6/n\r\n\u8BA9\u6211\u770B\u770B\u4F60\u7684\u8D27\u7269/n\r\nn-\u65C5\u884C\u5546\u4EBA/n\r\n\u8BF7\u968F\u610F\u6311\u9009\uFF01"
+  cachedLines:
+  - "n-\u65C5\u884C\u5546\u4EBA"
+  - "\u6B22\u8FCE\u6765\u5230\u79FB\u52A8\u5546\u5E97\uFF01"
+  - "\u9700\u8981\u770B\u770B\u4ECA\u5929\u7684\u7279\u4EF7\u5546\u54C1\u5417\uFF1F"
+  - "n-\u73A9\u5BB6"
+  - "\u8BA9\u6211\u770B\u770B\u4F60\u7684\u8D27\u7269"
+  - "n-\u65C5\u884C\u5546\u4EBA"
+  - "\u8BF7\u968F\u610F\u6311\u9009\uFF01"
+  events: []
+  hasName: 1
+  EndscriptableEffects:
+  - {fileID: 11400000, guid: 50f252d71bfb09a4e8ead41044f7d700, type: 2}

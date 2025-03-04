@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d72655c709c08a4c86cc8b1a6089bf1, type: 3}
+  m_Name: "\u7CBE\u7075 \u6B7B\u795E"
+  m_EditorClassIdentifier: 
+  text: "\u6740\u6B7B\u4E00\u6B21\u6B7B\u795E"
+  nextDialogue: {fileID: 0}
+  onSelected:
+    m_PersistentCalls:
+      m_Calls: []
+  scriptableEffects: []
+  nextDialogueIndex: 1
+  EndingDialogueIndex: 2
+  requiredItem: 
+  minLevel: 1
+  taskToTrigger: {fileID: 11400000, guid: 62ed1d9032eb6744ea7970f039845436, type: 2}
+  requireTaskCompletion: 1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c0ef3f72da8454c8d5efd8a761ffac, type: 3}
+  m_Name: "\u9B54\u738B\u6212\u6307"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u9B54\u738B\u6212\u6307"
+  icon: {fileID: -102417002, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemID: e1ef991f18e94414a96d6e46077f4755
+  needMoney: 299999
+  dropChance: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 5734ecdbd1f21d64ba693ada230a3fe0, type: 2}
+  - {fileID: 11400000, guid: a6b7baca8384f5a4196fd56f440a0796, type: 2}
+  - {fileID: 11400000, guid: dd091ef3c2c1a554fa7021db5e3aa1b4, type: 2}
+  itemCooldown: 0
+  equipmentType: 2
+  itemEffectDescription: "\u7EDF\u9886\u5929\u4E0B\u7684\u6212\u6307"
+  strength: 40
+  agility: 3
+  intelligence: 30
+  vitality: 23
+  health: 10000
+  armor: 50
+  magicresist: 50
+  evasion: 10
+  damage: 80
+  critChance: 20
+  critPower: 180
+  firDamage: 50
+  iceDamage: 50
+  lightningDamage: 50
+  craftRequirements:
+  - data: {fileID: 11400000, guid: a6da1dfecc5c59f46826df21af7bd87a, type: 2}
+    stackSize: 5
+    slotID: 0
+  - data: {fileID: 11400000, guid: 5792bd69a22d185479d4bc3988ed2c7c, type: 2}
+    stackSize: 30
+    slotID: 0
+  - data: {fileID: 11400000, guid: 5a4cf81226b32b442b633ccbf64fce6f, type: 2}
+    stackSize: 40
+    slotID: 0
+  - data: {fileID: 11400000, guid: 258204e4ce966244a941cd256d89079a, type: 2}
+    stackSize: 10
+    slotID: 0

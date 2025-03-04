@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 788ba3ab1a5ca034abbe4cc97dde2a2e, type: 3}
+  m_Name: "\u6E38\u661F\u5251\u8BC0"
+  m_EditorClassIdentifier: 
+  chineseName: "\u6E38\u661F\u5251\u8BC0"
+  isInnate: 0
+  useBlue: 20
+  usePoint: 3
+  useYellow: 0
+  rate: 0.7
+  targetRange: 2
+  tag: 3
+  attribute: 0
+  type: 0
+  damageType: 2

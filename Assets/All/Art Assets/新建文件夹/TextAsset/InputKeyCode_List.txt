@@ -1,0 +1,105 @@
+ID,InputType,Code,Remark (Keyboard / XBox),PS3 / PC,PS4,PS5,Switch Pro
+0,0,A,Keyboard - A,,,,
+1,0,B,Keyboard - B,,,,
+2,0,C,Keyboard - C,,,,
+3,0,D,Keyboard - D,,,,
+4,0,E,Keyboard - E,,,,
+5,0,F,Keyboard - F,,,,
+6,0,G,Keyboard - G,,,,
+7,0,H,Keyboard - H,,,,
+8,0,I,Keyboard - I,,,,
+9,0,J,Keyboard - J,,,,
+10,0,K,Keyboard - K,,,,
+11,0,L,Keyboard - L,,,,
+12,0,M,Keyboard - M,,,,
+13,0,N,Keyboard - N,,,,
+14,0,O,Keyboard - O,,,,
+15,0,P,Keyboard - P,,,,
+16,0,Q,Keyboard - Q,,,,
+17,0,R,Keyboard - R,,,,
+18,0,S,Keyboard - S,,,,
+19,0,T,Keyboard - T,,,,
+20,0,U,Keyboard - U,,,,
+21,0,V,Keyboard - V,,,,
+22,0,W,Keyboard - W,,,,
+23,0,X,Keyboard - X,,,,
+24,0,Y,Keyboard - Y,,,,
+25,0,Z,Keyboard - Z,,,,
+26,0,Alpha0,Keyboard - 0,,,,
+27,0,Alpha1,Keyboard - 1,,,,
+28,0,Alpha2,Keyboard - 2,,,,
+29,0,Alpha3,Keyboard - 3,,,,
+30,0,Alpha4,Keyboard - 4,,,,
+31,0,Alpha5,Keyboard - 5,,,,
+32,0,Alpha6,Keyboard - 6,,,,
+33,0,Alpha7,Keyboard - 7,,,,
+34,0,Alpha8,Keyboard - 8,,,,
+35,0,Alpha9,Keyboard - 9,,,,
+36,0,Minus,"Keyboard - ""-""",,,,
+37,0,Equals,"Keyboard - ""=""",,,,
+38,0,Keypad1,Keyboard - Num1,,,,
+39,0,Keypad2,Keyboard - Num2,,,,
+40,0,Keypad3,Keyboard - Num3,,,,
+41,0,Keypad4,Keyboard - Num4,,,,
+42,0,Keypad5,Keyboard - Num5,,,,
+43,0,Keypad6,Keyboard - Num6,,,,
+44,0,Keypad7,Keyboard - Num7,,,,
+45,0,Keypad8,Keyboard - Num8,,,,
+46,0,Keypad9,Keyboard - Num9,,,,
+47,0,Keypad0,Keyboard - Num0,,,,
+48,0,KeypadPeriod,Keyboard - Num .,,,,
+49,0,UpArrow,Keyboard - Up,,,,
+50,0,DownArrow,Keyboard - Down,,,,
+51,0,LeftArrow,Keyboard - Left,,,,
+52,0,RightArrow,Keyboard - Right,,,,
+53,0,Insert,Keyboard - Insert,,,,
+54,0,Home,Keyboard - Home,,,,
+55,0,Delete,Keyboard - Delete,,,,
+56,0,End,Keyboard - End,,,,
+57,0,PageUp,Keyboard - PageUp,,,,
+58,0,PageDown,Keyboard - PageDown,,,,
+59,0,Slash,Keyboard - /,,,,
+60,0,KeypadDivide,Keyboard - Num /,,,,
+61,0,KeypadMultiply,Keyboard - Num *,,,,
+62,0,KeypadMinus,Keyboard - Num -,,,,
+63,0,KeypadPlus,Keyboard - Num +,,,,
+64,0,KeypadEnter,Keyboard - Num Enter,,,,
+65,0,Comma,"Keyboard - ,",,,,
+66,0,Period,Keyboard - .,,,,
+67,0,Semicolon,Keyboard - ;,,,,
+68,0,BackQuote,Keyboard - `,,,,
+69,0,LeftBracket,Keyboard - [,,,,
+70,0,RightBracket,Keyboard - ],,,,
+71,0,Backslash,Keyboard - \,,,,
+72,0,Backspace,Keyboard - [Space],,,,
+73,0,LeftControl,Keyboard - L Ctrl,,,,
+74,0,LeftShift,Keyboard - L Shirt,,,,
+75,0,LeftAlt,Keyboard - L Alt,,,,
+76,0,Tab,Keyboard - Tab,,,,
+77,0,CapsLock,Keyboard - CapsLock,,,,
+78,0,Return,Keyboard - Enter,,,,
+79,0,Space,Keyboard - SpaceBar,,,,
+80,1,X Axis,Xbox - [L] Left / Right,PS3 / PC - [L] Left / Right,PS4 - [L] Left / Right,PS5 - [L] Left / Right,Switch Pro - ???
+81,1,Y Axis,Xbox - [L] Up / Down,PS3 / PC - [L] Up / Down,PS4 - [L] Up / Down,PS5 - [L] Up / Down,Switch Pro - [L] Up / Down
+82,1,3 Axis,Xbox - LT & RT,PS3 / PC - [R] Left / Right,PS4 - ???,PS5 - ???,Switch Pro - ???
+83,1,4 Axis,Xbox - [R] Left / Right,PS3 / PC - ???,PS4 - [R] Left / Right,PS5 - [R] Left / Right,Switch Pro - [L] Left / Right
+84,1,5 Axis,Xbox - [R] Up / Down,PS3 / PC - [R] Up / Down,PS4 - [R] Up / Down,PS5 - [R] Up / Down,Switch Pro - ???
+85,1,6 Axis,Xbox - [D-Pad] Left / Right,PS3 / PC - [D-Pad] Left / Right,PS4 - [D-Pad] Left / Right,PS5 - [D-Pad] Left / Right,Switch Pro - ???
+86,1,7 Axis,Xbox - [D-Pad] Up / Down,PS3 / PC - [D-Pad] Up / Down,PS4 - [D-Pad] Up / Down,PS5 - [D-Pad] Up / Down,Switch Pro - [R] Left / Right
+87,1,8 Axis,Xbox - ???,PS3 / PC - ???,PS4 - ???,PS5 - ???,Switch Pro - [R] Up / Down
+88,1,9 Axis,Xbox - LT,PS3 / PC - ???,PS4 - L2,PS5 - L2,Switch Pro - [D-Pad] Left / Right
+89,1,10 Axis,Xbox - RT,PS3 / PC - ???,PS4 - R2,PS5 - R2,Switch Pro - [D-Pad] Up / Down
+90,1,JoystickButton0,Xbox - A,PS3 / PC - △,PS4 - X,PS5 - X,Switch Pro - B
+91,1,JoystickButton1,Xbox - B,PS3 / PC - 〇,PS4 - 〇,PS5 - 〇,Switch Pro - A
+92,1,JoystickButton2,Xbox - X,PS3 / PC - X,PS4 - □,PS5 - □,Switch Pro - Y
+93,1,JoystickButton3,Xbox - Y,PS3 / PC - □,PS4 - △,PS5 - △,Switch Pro - X
+94,1,JoystickButton4,Xbox - LB,PS3 / PC - L2,PS4 - L1,PS5 - L1,Switch Pro - SL
+95,1,JoystickButton5,Xbox - RB,PS3 / PC - R2,PS4 - R1,PS5 - R1,Switch Pro - SR
+96,1,JoystickButton6,Xbox - Map,PS3 / PC - L1 ,PS4 - Share,PS5 - Share,Switch Pro - ZL
+97,1,JoystickButton7,Xbox - Start,PS3 / PC - R1,PS4 - Option,PS5 - Option,Switch Pro - ZR
+98,1,JoystickButton8,Xbox - [L] Press,PS3 / PC - Select,PS4 - [L] Press,PS5 - [L] Press,"Switch Pro - ""-"""
+99,1,JoystickButton9,Xbox - [R] Press,PS3 / PC - Start,PS4 - [R] Press,PS5 - [R] Press,"Switch Pro - ""+"""
+100,1,JoystickButton10,Xbox - ???,PS3 / PC - L3,PS4 - ???,PS5 - ???,Switch Pro - [L] Press
+101,1,JoystickButton11,Xbox - ???,PS3 / PC - R3,PS4 - ???,PS5 - ???,Switch Pro - [R] Press
+102,1,JoystickButton12,Xbox - ???,PS3 / PC - ???,PS4 - ???,PS5 - ???,Switch Pro - Home
+103,1,JoystickButton13,Xbox - ???,PS3 / PC - ???,PS4 - ???,PS5 - ???,Switch Pro - Screen

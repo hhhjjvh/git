@@ -1,0 +1,11 @@
+id,name,area,detail01,detail02,detail03,detail04,detail05,location
+0,敵人ID_1,0,詳細說明_ID01_S1,詳細說明_ID01_S2,詳細說明_ID01_S3,詳細說明_ID01_S4,詳細說明_ID01_S5,出沒地_01
+1,敵人ID_2,1,詳細說明_ID02_S1,詳細說明_ID02_S2,詳細說明_ID02_S3,詳細說明_ID02_S4,詳細說明_ID02_S5,出沒地_02
+2,敵人ID_3,2,詳細說明_ID03_S1,詳細說明_ID03_S2,詳細說明_ID03_S3,詳細說明_ID03_S4,詳細說明_ID03_S5,出沒地_03
+3,敵人ID_4,3,詳細說明_ID04_S1,詳細說明_ID04_S2,詳細說明_ID04_S3,詳細說明_ID04_S4,詳細說明_ID04_S5,出沒地_04
+4,敵人ID_5,4,詳細說明_ID05_S1,詳細說明_ID05_S2,詳細說明_ID05_S3,詳細說明_ID05_S4,詳細說明_ID05_S5,出沒地_05
+5,敵人ID_6,5,詳細說明_ID06_S1,詳細說明_ID06_S2,詳細說明_ID06_S3,詳細說明_ID06_S4,詳細說明_ID06_S5,出沒地_06
+6,敵人ID_7,6,詳細說明_ID07_S1,詳細說明_ID07_S2,詳細說明_ID07_S3,詳細說明_ID07_S4,詳細說明_ID07_S5,出沒地_07
+7,敵人ID_8,0,詳細說明_ID08_S1,詳細說明_ID08_S2,詳細說明_ID08_S3,詳細說明_ID08_S4,詳細說明_ID08_S5,出沒地_08
+8,敵人ID_9,1,詳細說明_ID09_S1,詳細說明_ID09_S2,詳細說明_ID09_S3,詳細說明_ID09_S4,詳細說明_ID09_S5,出沒地_09
+9,敵人ID_10,2,詳細說明_ID10_S1,詳細說明_ID10_S2,詳細說明_ID10_S3,詳細說明_ID10_S4,詳細說明_ID10_S5,出沒地_10

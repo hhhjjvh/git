@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c0ef3f72da8454c8d5efd8a761ffac, type: 3}
+  m_Name: "\u751F\u547D\u6062\u590D\u836F\u6C34\uFF08\u5C0F\uFF09"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u751F\u547D\u6062\u590D\u836F\u6C34\uFF08\u5C0F\uFF09"
+  icon: {fileID: 1206954855, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemID: c7c6f256edc09fc49828ad731bad3ee1
+  needMoney: 500
+  dropChance: 2.4
+  itemEffects:
+  - {fileID: 11400000, guid: f9120f1213b9f7941a30c69674284759, type: 2}
+  itemCooldown: 10
+  equipmentType: 3
+  itemEffectDescription: 
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  health: 0
+  armor: 0
+  magicresist: 0
+  evasion: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  firDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftRequirements:
+  - data: {fileID: 11400000, guid: 9ade6dd2f4f8ee24da077c25ef1ffc08, type: 2}
+    stackSize: 1
+    slotID: 0

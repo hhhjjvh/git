@@ -1,0 +1,11 @@
+ID,Type,SkillID,HP,MP,PV,ASTR,MSTR,ADEF,MDEF,AGI,LCK,MovSpeed,JumpHeight,MP_N,MP_S,TrunkATK,TrunkDEF,EC_ATK,CriticalATK,CriticalDEF,Critical_Damage_Phy,Critical_Damage_Mag,Evade,ItemDrop_Rate,ItemDrop_Quality,P_ATK,F_ATK,I_ATK,T_ATK,W_ATK,E_ATK,L_ATK,D_ATK,U_ATK,P_DEF,F_DEF,I_DEF,T_DEF,W_DEF,E_DEF,L_DEF,D_DEF,U_DEF,DN_ASTR,DN_MSTR,DN_ADEF,DN_MDEF,DN_AGI,DN_LCK,DN_P_ATK,DN_F_ATK,DN_I_ATK,DN_T_ATK,DN_W_ATK,DN_E_ATK,DN_L_ATK,DN_D_ATK,DN_U_ATK,DN_P_DEF,DN_F_DEF,DN_I_DEF,DN_T_DEF,DN_W_DEF,DN_E_DEF,DN_L_DEF,DN_D_DEF,DN_U_DEF,ED_Fire,ED_Ice,ED_Thunder,ED_Wind,ED_Earth,ED_Light,ED_Dark,ED_Unreal,I_Poson,I_Bleed,I_Dizziness,I_Weakness,I_Silent,I_Nightmare,I_Stigma
+1,0,-999,,,,1,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,0,-999,,,,2,2,,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,0,-999,,,,3,3,3,,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,0,-999,,,,4,4,,4,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,0,-999,,,,5,5,5,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,0,-999,,,,6,6,,6,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,0,-999,,,,7,7,7,,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,0,-999,,,,8,8,,8,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,0,-999,,,,9,9,9,,18,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,0,-999,5,5,3,10,10,,10,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

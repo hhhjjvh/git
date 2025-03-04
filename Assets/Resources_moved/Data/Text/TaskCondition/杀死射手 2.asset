@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdeed35fc2a4524ebdbb2734a5cba2a, type: 3}
+  m_Name: "\u6740\u6B7B\u5C04\u624B 2"
+  m_EditorClassIdentifier: 
+  guid: edaac7da-5384-44ab-bf5c-7e6a24e14ebc
+  conditionDescription: "\u6740\u6B7B\u5F13\u7BAD\u624B"
+  requiredAmount: 30
+  enemyName: 6

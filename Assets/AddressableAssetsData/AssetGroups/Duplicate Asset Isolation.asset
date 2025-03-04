@@ -1,0 +1,1871 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7e1975030b3782942b7ee4249384fd37
+  m_SerializeEntries:
+  - m_GUID: 79bc1c1301bd29b4f906f8f131a1926c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle-1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb42bd86826a83a4281807e30213e6da
+    m_Address: Assets/Animations/Enemies/Skeleton/Animator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6369e7898a92a4bbd91c62bb1fe7f3
+    m_Address: Assets/Animations/Enemies/Briner of Death/Animator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6ee969996220254eb474346246392c7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/Skeleton_2.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c7bcb3c40293a54b9548025167c8f87
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/idle-1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325c167dafb1b88489879db8a41f6ec8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/Skeleton_1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b562999e4a96fa74c824f983297c235b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/idle-1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e4e9e307a6097a4cbd21f66b7bdf986
+    m_Address: Assets/Animations/Enemies/Briner of Death/Bringer-of-Death-SpritSheet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28e5060b1c87274280e20a11304db5a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/idle-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af16cb225967af543b9c764da4690c2e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/idle-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e4460827a2fe4f43b83b4c9c55ec1dd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 687df074731fbf744b668d2275dbb675
+    m_Address: Assets/Animations/Enemies/Skeleton/Skeleton Idle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb3711790d9a7304992355d8f5f9eeae
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/idle-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae44d6ca9dc728943a492226b377d3f4
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/idle-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45cd1e102a7b50f438a28946b2ceb8ab
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8594ce50adccd1b48839c7155f8b3d1c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7299d71d984c8e44b4dccddbbd4a34a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/bighit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e803a10682ba446a6fda64eadfc3ec
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83892ee102b7bcd45baccce63769ac77
+    m_Address: Assets/Animations/Enemies/Briner of Death/attack.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99d68772d38042a449102d8097187a21
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe37e132dd451745a3ee6ff8dd911c1
+    m_Address: Assets/Animations/Enemies/Briner of Death/cast.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46256b23121361c4895d81c327c61982
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68c95432f0a9844aa7acfc50252b0e0
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c50ab4a34a4f255478eeb6b81b0c28fb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 159337b3e7d25a645bed1d08fb931366
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2ab1db3eb1b9cc4d9144578c5057dc7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/bighit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fd44fd36ad98024894f1bdb561a29fb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e54df3176249443a689080f10125d9
+    m_Address: Assets/Animations/Enemies/Briner of Death/castStart.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24984b84675ac5040a062b7835742709
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46b2d605c7deeb248bef68c5c215d155
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/fall.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 577fefa544cfcb543a99d83bc847062f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/fall.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fd667b592797134a8c55d97eeba11f4
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f12b4d5334d82741a74b26f99fa59a8
+    m_Address: Assets/Animations/Enemies/Briner of Death/deathBringerExit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93ca316124ef3a4897ed574ad17da85
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/Dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b18803776984914ca6a2d3ebeec3dd1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c0b3447c51408744bd0cd894101cf8f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bfef697222db9b44bc6dc275066a8b8
+    m_Address: Assets/Animations/Enemies/Briner of Death/dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07d2b9086c0497e4fbab0200919cccbc
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/bigHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3771028d45ac39429278d31a91c6281
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a045fb28444f38d449ed88cb6b3b3cd8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/BigHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d4ed988576a38a4b8522be2792063e1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 302a4cd871b4a4541a3d84d3e080eb76
+    m_Address: Assets/Animations/Enemies/Briner of Death/bighit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce42f969cdbbd9e41b8d847ea52c997b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e685189c024290479f3b826d101965b
+    m_Address: Assets/Animations/Enemies/Briner of Death/deathBringerEnter.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5006fc8922af303458cb99cc3dbb5cfc
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5907210a3c5b8764080d69ae1e859836
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2708a61a50416fa4e93cc4c69381e00d
+    m_Address: Assets/Animations/Enemies/Briner of Death/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51215d1a38c652d43a416fe83f6dbda4
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2968fd1ae2fa3d24ab89b19534ab1d67
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9440028a41be232419d7f417f470fec5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3d638a393c89049815e88e5b7ce345
+    m_Address: Assets/Animations/Enemies/Briner of Death/castExit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24a35c8a72a1c2c4faebf69623d54dbf
+    m_Address: Assets/Animations/Enemies/Skeleton/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0bbd15b95ac33a4f8368291b39f1b0c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/bighit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f458d7bfee52a849b93415bbdd0d2a4
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23f75a8b55844d64f85a3877c53606a8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c68680c20f69114ea7ec6104aedbf81
+    m_Address: Assets/Animations/Enemies/Briner of Death/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9531af1cfd7c43644ad4c9b99762c270
+    m_Address: Assets/Animations/Enemies/Skeleton/Dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbce6c4ca0d001e4798d3ec33da4ca67
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29bdbf6c5c4cc6143909e4bbaebffd28
+    m_Address: Assets/Animations/Enemies/Skeleton/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f2b907ccef6ea64e900b39c89458ac8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acdda0ecee2638e4984c946f680a8b82
+    m_Address: Assets/Animations/Enemies/Briner of Death/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9514e41d53dafe548a97d177dc44a916
+    m_Address: Assets/Animations/Enemies/Skeleton/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad2b1a4d2372da849acb2e9fc8edca5b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/Fall.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9300e27d2f6b53a42843540c72f3d109
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/move.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04711fdd5ae521a40911de07cfd66160
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 661549ed3d0fbb043b16d97db8bf8a8c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/parry.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c81ffdee3e4d84ca4c4c4bf650f055
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d1d573e61f4cb6459a3f0d44b5d9c08
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d216846e16c002e4c9fa692b1d20d54b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7a85eaeb5f4b5947b94bf1affa18631
+    m_Address: Assets/Animations/Enemies/Skeleton/attack.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8279f1fe1aaf5db44a4c280dc9338fb3
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/hit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1197ae2f0a80b95449707ec474557900
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/fall.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16e4dc5fca98b454b9a44d000982ed6c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d0a01ff78f2a1d47a193df86243299e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e02083ff32e19a244933bbc6fb3a0efd
+    m_Address: Assets/Animations/Enemies/Skeleton/BigHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dabf1affbeb3cb74f9446d3863e8316a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/dead.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a0ae200e9c42ba45ab8c2505d22151c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 583e1a00d40beb146a9d72384ac98adb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/dead-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 769c1d00bdf28e2418ee4cee4fa058d7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c8373041307574b98fb385406fad57
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a742c30c1875074688c6cbd67ed91fe
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4713dc40a5acbd442b80ffb459d799c7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 030ebc6024b035742a1f0b52fc8398a4
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd70b1804d155494298c8bda75e5b72d
+    m_Address: Assets/Animations/Enemies/Skeleton/Skeleton Dead.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edd97a80a81597f4fb0bbe103ee61ecd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a13fef80e4f845e448f126d026ac31a0
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab87589022c07504eaca608f5eee8dae
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c4b72a04c613ee40a3d3ce5740fc370
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 258417c0783ce824e97b514a2437d35a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d85184f0406735a42bd95467ea855be5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0278f0728aa294b818d1d4fd4a7ff9
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7fc8ff0af10ed84ebafa42ad6960f95
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfa1a9013ddeca5458ec3c60edcae52c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 081ea5419f586434d92e4211d21b7278
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d08fe4a10a671684d83aa0273666bb5c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2a475a12f81f1e44a05b67709077ddb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4698c5a1f5a5eca4fb015729046dd6ca
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 342b9aa1508b26c44951671e25d81119
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a31b80b129768c647af8a375fe0a00a1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79110db1cbca0064fb84324540fd21a3
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f023deb19dcb1e24fbad7047ef406f1f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd35ac1b580ddd4e87246dcf0dc4eb5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b104f0d12ebe25e4580b710fc034c144
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4521d5d13324d1f4b839e6dbf5bf44a8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/idle-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0648bcd1747b32146bfe55eec0cfe910
+    m_Address: Assets/Animations/Enemies/Briner of Death/Bringer-of-Death-SpritSheet_no-Effect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03733ed159cdb8541a3488919b1e6cd5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc4a18e1e2f55e7479dade304adc85cb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/dead-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 906ed0f1417ccd64887507e1f585665e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 749105026f3f84d4d9ae3448b4c82794
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/idle-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf640223d056174688b1609faf70e6b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 987f678285b8fe84bac093113b0edf80
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4d2ae92f2638cf4f91b1cc49bdc0b27
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e8ba4b2b7507f047a6233b78457fb52
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/dead-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5061efb2ab941b4449aeacbbeab9e90c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bad448c2c13a09947a747764808348b7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4b89c2327ac3547919e4e1170a1c20
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a6a6ae2cc6e3414da6daaaf2fa35359
+    m_Address: Assets/Animations/Enemies/Skeleton/Skeleton Hit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eb930033cfb3b44ab28e2a454c85334
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/hit-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49a5f5035c8b8f34da87c470086f8a85
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/hit-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78fdbc13f75b2ff41a93203855a2b546
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/hit-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93712d13d205c0543a397e7a337977fb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/shield-block-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbde7f3392edc8c44bf688b4af30079c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe208b5354636174eb44c6e90d8b07fe
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fe535831433b0849b15f71768973978
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9baaebc385ad64c46ae7c798044edbab
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17617ec3f1ceeea40a929f553f02b6bf
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b2b4fc361b72eb48a112d4c07ac5c42
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb105fc34bff67146be09b680d162557
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdee10d35cd1a3e4cbf2c18cbaccbaad
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/walk-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62802fd32fecc9c4b8b1ea6f0902233c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d9bf7f390062134d89c13528ef83b8b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/hit-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8703caf37546c2c48b22fb47a3d83e9d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66fe9a1423463254b858ecfc79605871
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/hit-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a29ea24a0666404881687fb159f76a9
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4786a3341957de84fac51cfcaeef9f29
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c19c834d22bbda4f8269585a89f41fd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14b9b934bb01b7b428cc9adcf3fb723f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f76e144692af4340a4016991ca9c0e5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4509734409304c84b8f787528d855437
+    m_Address: Assets/Animations/Enemies/Skeleton/Skeleton Walk.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d7e3a440047dce44be5a1a8789481a0
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/dead-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c28b7c74e33a7b648aca59528fc31631
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856d3d74a40940642a0f42b82eb3c8ac
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/idle-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74c10894fd143fa4493f72c3bc8f1367
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/hit-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf65ff94d9a87244587dbc101a5d0a21
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1fdf1a4ba6958647bcd945873ac6e65
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9aec6a46a71e6b40b88d2282b2781e2
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/hit-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0cd5da40e7bb634ea2d424e7a9c293d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 265406c4eb5581249bb0f7999d03774c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 304da8e4e3ca22d4f8ac368e350f4d93
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab5b62f48fe59fe4ea76d7a30272a96a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07091af46495fa14eb73edfdc9f6bda9
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/idle-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4306c055fa498742b39c712cbcd6caf
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/hit-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cfd4f05a7016f841bdc2890b3034ed1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/dead-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263b4135dc07a0449a54ff7ea70f9256
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3352f354f9492342beb58937cf4baad
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb718c45f6b1cd646b6f5a25ae0c7eba
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e7b1255357589a4c8e5bc7df7e82b10
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4c3f65507bfa64438de32a3a28aebc5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd5a4755f009e054a93a833ae69956f7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ab74851b213a4468dd6f78f3b67e15
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c95a885b6e8f4444837047a57ed3ac1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6721e85b1e683c4eb89321015edd6a9
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74d7c0a55400a7d43be83812cc815dcf
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39fc07b598af2d44b8bc426acb76937d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b4b5bb559abd044791dedff1b79315e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2750b4c5b3ad38d43b4d095b1c6e9c0b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7fab4d5e73126e4394742f72eee9f2b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9cbfae5b22c9f74f869b56b802373bb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3c062f5ae8060f41b9a723e83402999
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/hit-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e9b1ef5c63150242960c27b4bdbc2dc
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4de7f306317c83e42b02096aebffa3ce
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9a0d056f1dbfb7429e3122623c2d105
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0902635682d5fe044a7489bc7021e265
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/jump-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dcaf366b6f3abe41986fc39ead7be7c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d6ad5966b5a779448ba6c7e0f263a33
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7b196a6a0ae82848883d1590bd02311
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/idle-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ea049b6ae0c87f40aa3f0f5e7bdc567
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/walk-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31f60db64b796164bb8fa35735e9a76f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/dead-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b9b7ec69ebddd747b6411cf1b52570a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4781dec62b11ffb4a9f3cca005d6ab57
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb383fd646f7a614381e41b9bf4729dd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af2d29e6b98295a4d8b0eeb19ce572e8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/dead-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f6a8ee66fc2b2f4eb8beaf25dd3a841
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b030faf6265062844a0f5eb84eb77a87
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/hit-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83af3cf63aa38ea4bac1f82e54d99d36
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa5b1207bbf504b4faa399dbe611a16f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c932378f91f074faaa16674c794cc1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3757da37e36931447b84ca852c015afd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/shield-block-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bdd6c37d70a73048840f49b5f4c1587
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40f21547c0783134a949366e117afb38
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3324cc57d8c029545b5eb6fee623dd95
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12e8bfa74f09e594c912c50916363f4e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/idle-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28c607b7284038b4786820beffdc3fe2
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/hit-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c76c77c705401a14f9368fbcc2c3625a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef4a1cf7ec1c3ef44a0e7f57238afed7
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/dead-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9625408524ce384f927cdec175e67b2
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/idle-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c5ce848148293b4ab8396450d89a900
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57607658b78ab4742bdc74450174b3d0
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-B9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04f1e2682a6f2464ea7dc79b7b3cf288
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93fc5888f2208c4381ec929c0bab03a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c6bba8449913648a8ea6990d4a9060
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/dead-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec4d5dc85735f19488feb5c4276cc9bb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/dead-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41a89ec87611d144ba345dde9f14eb7f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13f222e87a142f8429bdf50c087e22a6
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ca63e093201493469a8044bc3eb0e36
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06423f39ae16b3849a9ee4295973598f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5468149325ae5545a5dd17de851b87c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/dead-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96be1249c10d64242837e53bbc712bc1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/dead-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9916b279ae2df8f4bac78c1ec07fe869
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 027906b99dfaf3841b34ff09f2de01af
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f4540e95b5dfac44a0e1b9c675311b3
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/dead-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ed74cf91486f7640b10fbb54e84ae98
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cde6a51afd6aa9a408d1258d11671bd8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3739491a635c3de479e7e2243f14448a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8804832af51fd224e833907ef31ab1a6
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0295dd3a4ab69024d97ee39792575c1f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36b44d6a8d2980d4d89ff6330f2078cd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c04d3baf60efaa46ba5088cea8c4fa5
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a80a75ba0dcdcca44bb16b950986375b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/hit-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ba91eba757962246a6d881445afbfcb
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bfffeba0b62cf5448929c448f711700
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/walk-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffed92ea82fa70e459618a2660cfe347
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2681b9ea165818a40a0d60507953ce71
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/dead-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc36c6fa15513914c9052f6b8bce3c4e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad356ffa6d5fb044faa7b7a6441a601b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a61e380b02e65914187d4cd06dfee31b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5106821bde0c0d5459d9016d6425abab
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c40aa4b6471d854c88de8253331279a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/hit-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc71415bc56e07742a0bede3d4be6d2f
+    m_Address: Assets/Animations/Enemies/Skeleton/Skeleton Attack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cad485b53033954196cb63a5a7fc086
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/hit-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32cfc26b3378a8b4f9d93e72c7c2cb6c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 177a5a7b72a3cfe4da806bafa83ed1ea
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4996548b77a338642aa3c0ae23843ffd
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 566b749bd6907dc45a210b5626831a41
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5582bd9b3b2d30041aa476896aca6576
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff8c22abfeb161146a5de37d00a1430d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f7ba9abb1f652a47a5aa20ac87d9475
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54e44dcb5a49be04b8115b401cd78d2a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a30bc6eb198f2614e9a0b59208f6d94a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c132cebcbaa23e419458b9c86201d5a
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29b449cceb6a7444a37c6cfdd2591da
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9351e6ac189df5a409a44e7b19fb1308
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-A2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 422c03bc4fb8dfe4d9b02348961a9aad
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a74bccc04f0694cbcc4f396f20fa90
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/attack-A2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e943c1d00529284eb403cf58465cd2d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76ba54d0ba86fa40a3e016e7fdccb41
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-A2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ea46f4d239017e4b9eafb438f33b655
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-A3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ff3bb5d141c2204ea7a71ac5fed23ad
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/walk-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf98b6d631f2fc46a93f7683ea86482
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35a0ac6d41cc6de45b22da443e039323
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/idle-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 391dd47d67abb9940a2ab0f96d5cc3ea
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/walk-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a823f57d1e9b1f04aaefe79f291c014c
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/attack-B3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f9af0bdf6bed18488b5037877de5627
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 809b3bbd54773f443bff42da123eb73e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/hit-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7369fbd274b8ef459f0a3413a60cfc1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/jump-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f539dedf0dd41e419c8fbd2db58879b
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1834e50e1f258904ba803e00c5e899c1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/walk-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ed980e24e489a44a52d55bf034b91f
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c5f262e972f0e14fa53f809d4ec4f11
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2019113e6291591499504292116c6279
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/dead-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15274a3e6e7df2642aa09dc44671d833
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb85cb5e3425a814398015527ff9bc4e
+    m_Address: Assets/All/Art Assets/Sprites/Enemy4/walk-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed9b567ed7c32dc4cbcac37af8841754
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 907ef88ec87b0a94f81407bb4cfff788
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 001788cefd5b75f4dbf280b778ffd227
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c09086deaf910f24ca170aa2c440ed11
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf93c7eeb9866ce40b9b7fb76f150e50
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/dead-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9369f7ee9a010de419a19066d7a86ec8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/dead-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055bdcfeca6db6b42909cf59de4d5cd8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3499081f32826c44f9c92212e855410d
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/idle-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1f7fe1f93771b741b55924864dba2d3
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-C2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fb7783f3be19e247a2166332029b4f1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/jump-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0872883f26db6b846bf3b9427f298aab
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/run-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7feca64fb194c4c44bb16cbdc5101ec1
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c4a8e5f4b5318b46983b970fdd40e90
+    m_Address: Assets/All/Art Assets/Sprites/Enemy2/hit-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e012fe9f7bb2e2f4e8c3745d7b525835
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/jump-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92c0b5bf591389a4e8beabc3a0cef886
+    m_Address: Assets/All/Art Assets/Sprites/Enemy1/attack-B1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41e030cfeca85454f92849c3d2d02795
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-A4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 490d52efbafe6184d8ff89ef9677b3b8
+    m_Address: Assets/All/Art Assets/Sprites/Enemy5/attack-B1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d90a94ffed832704780470e66307fa71
+    m_Address: Assets/All/Art Assets/Sprites/Enemy3/attack-B2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b0ba242c6354d744b4524eb0fc98ee7
+    m_Address: Assets/All/Art Assets/PF SET1/Sliced/mainlevbuild.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebac7f953a360f444b600960677d18f3
+    m_Address: Assets/Animations/UI/scence.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ca9a41598dd2e44b125928045c518f
+    m_Address: Assets/All/UI/Icons/BG 6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 288775d1aa25875418a3f3fd7acb01f5
+    m_Address: Assets/All/UI/artdecoUI_PIPO_green.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be55291aae08d434db3da3b59db3ab4a
+    m_Address: Assets/All/UI/Icons/#2 - Transparent Icons & Drop Shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae72133dacba6ec4eb33ecde48f50e56
+    m_Address: Assets/Animations/Warrior_Sheet-Effect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d2a6380133d70543bd74ca2e94ec3ee
+    m_Address: Assets/Animations/attack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6981e351f780faa4fbae789bd33642ea
+    m_Address: Assets/Animations/UI/in.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aadaf72279704e43b0800cdcae253bc
+    m_Address: Assets/Animations/UI/scence.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dba5087e3c1dd94985a01dbcd6d5b6b
+    m_Address: Assets/Animations/idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 558cf41adfececd42b6d7f6b63858f2a
+    m_Address: Assets/Animations/attack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d1dae2a13868a14fbcc5f5526421e99
+    m_Address: Assets/Animations/attack3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98cfa15f738960a42baeafd39c8240ad
+    m_Address: Assets/shop.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f41da99bd51c07f41b593cc66a742191
+    m_Address: Assets/ship.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc5e75181f116474f965d2f31df5738b
+    m_Address: Assets/Resources_moved/Prefabs/Environment/TreasureBox 1/WhiteTreasureBox/WhiteTreasureBox.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6511780881ff23c4fa2e7016f6487def
+    m_Address: Assets/Resources_moved/Prefabs/Environment/TreasureBox 1/WhiteTreasureBox/Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b8d705cd6a596e4bbe3ecba726496fe
+    m_Address: Assets/Resources_moved/Prefabs/Environment/TreasureBox 1/BrownTreasureBox/Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a613d4523866b5e4883760125d4ebd06
+    m_Address: Assets/Resources_moved/Prefabs/Environment/TreasureBox 1/BrownTreasureBox/BrownTreasureBox.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea63fde48b621134dac49e378638ba8d
+    m_Address: Assets/Resources_moved/Prefabs/Environment/Items/Room/Coin/Coppers.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 023a939fa47653045a3cdf96caf4156e
+    m_Address: Assets/Resources_moved/Prefabs/Environment/Items/Room/Coin/Coppers.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b050f30364a845c4f88c0aa7780d2cd7
+    m_Address: "Assets/Resources_moved/Data/Text/Node/\u70BC\u91D1\u672F\u58EB.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 321309fe233bdbb4f907287ac9795230
+    m_Address: "Assets/Resources_moved/Data/Text/Node/\u70BC\u91D1\u672F\u58EB 3.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f881a52e3964e7448d43127bcd0593f
+    m_Address: "Assets/Resources_moved/Data/Text/Node/\u70BC\u91D1\u672F\u58EB 2.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7c12a9ab7b75244cb1a276515636b80
+    m_Address: "Assets/Resources_moved/Data/Text/Node/\u70BC\u91D1\u672F\u58EB 1.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45bfa31a11f04bd49944966ba58f1cc0
+    m_Address: "Assets/Resources_moved/Data/Text/Dialogue/\u70BC\u91D1\u672F\u5E08.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dffe3a85760fe54fa882b101740f9fc
+    m_Address: "Assets/Resources_moved/Data/Text/Dialogue/\u5546\u4EBA.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a7335946f0631c489b3a72941e965a3
+    m_Address: "Assets/Resources_moved/Data/Text/Choice/\u70BC\u91D1\u672F\u5E083.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37ec47418ed54464dadd5d9d8076c314
+    m_Address: "Assets/Resources_moved/Data/Text/Choice/\u70BC\u91D1\u672F\u5E082.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fddfa3124c8a7094d95593a50bd4908b
+    m_Address: "Assets/Resources_moved/Data/Text/Choice/\u70BC\u91D1\u672F\u5E081.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5785cb173d6b4734aab2c41d51e6eaf8
+    m_Address: Assets/Resources_moved/Data/ItemEffect/ManaEffect 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02805b1e4a5a1d44ab2c16f6adffbf60
+    m_Address: Assets/Resources_moved/Data/ItemEffect/HealEffect.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d33da04452bfea54fb9e4af7492c309e
+    m_Address: Assets/Resources_moved/Data/ItemEffect/HealEffect 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9120f1213b9f7941a30c69674284759
+    m_Address: Assets/Resources_moved/Data/ItemEffect/HealEffect 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b15d43e69aa21de43b3ea421968ce587
+    m_Address: Assets/Resources_moved/Data/ItemEffect/BuffEffect.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6752df506571e144ebdd2edceee2f0d2
+    m_Address: Assets/Resources_moved/Data/ItemEffect/BuffEffect 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe9644b71105f30469f8cf6055e8a895
+    m_Address: Assets/Resources_moved/Data/ItemEffect/BuffEffect 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50f252d71bfb09a4e8ead41044f7d700
+    m_Address: Assets/Resources_moved/Data/Event/TextEventEffect/New Show Shop Effect.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df1ca1633ee9ce44a1e274df9bb78db
+    m_Address: Assets/Resources_moved/Data/Event/TextEventEffect/New Add Item Effect.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1736feddb335424a8d3005f2d156649
+    m_Address: Assets/Resources_moved/Data/Event/TextEventEffect/New Add Item Effect
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 258204e4ce966244a941cd256d89079a
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u9EC4\u91D1.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 171d962faa244014886b2f84c9576d0a
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u9B54\u6CD5\u7C89\u672B\uFF08\u84DD\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 012c46834f2e85f40807af8773034f0f
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u9B54\u6CD5\u7C89\u672B\uFF08\u7EA2\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5792bd69a22d185479d4bc3988ed2c7c
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u94C1\u77FF.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6da1dfecc5c59f46826df21af7bd87a
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u94BB\u77F3.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea23faa6be5b8354caa5ecea5051b406
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u76AE\u9769.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a4cf81226b32b442b633ccbf64fce6f
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u6728\u5934.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88a1aeb32497aa642bafef26a20df014
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u53F2\u83B1\u59C6\u7403\uFF08\u9EC4\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b01b1603df9b0141b5d8888c944ea46
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u53F2\u83B1\u59C6\u7403\uFF08\u84DD\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b4fd0b34ffa81e4eb62268b73036206
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u53F2\u83B1\u59C6\u7403\uFF08\u7EFF\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ade6dd2f4f8ee24da077c25ef1ffc08
+    m_Address: "Assets/Resources_moved/Data/Datas/Materials/\u53F2\u83B1\u59C6\u7403\uFF08\u7EA2\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 204228308ac924540a6ba7a56b7f9ce8
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Weapon/\u94C1\u5251.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ffb74b28a97d354c89171882f0a49f4
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Weapon/\u897F\u6D0B\u5251.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48ebb4edbfd04604b9d69b2628c86666
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Weapon/\u7834\u6728\u5251.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d1ad37396cb5454eb3c78f931e92b05
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Weapon/\u55DC\u8840\u4E4B\u5203.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14edffdac149b564689a59d35a6bc4df
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Flask/\u9B54\u529B\u6062\u590D\u836F\u6C34\uFF08\u4E2D\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7c6f256edc09fc49828ad731bad3ee1
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Flask/\u751F\u547D\u6062\u590D\u836F\u6C34\uFF08\u5C0F\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91238b24ca2c2d841858ae462e1d254a
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Flask/\u751F\u547D\u6062\u590D\u836F\u6C34\uFF08\u4E2D\uFF09.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15d38be157ac5b14b9ffade89977c2a7
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Flask/\u529B\u91CF\u836F\u6C34.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61adb7c3c15dfe24a982f9ca3c1481fd
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Armor/\u9632\u5FA1\u670D.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 969c97120bcddac4e8b5ecb9fb49491c
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Armor/\u5E03\u8863\u670D.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4af6dba7a5ed6944295cf407549dad7e
+    m_Address: "Assets/Resources_moved/Data/Datas/Equipment/Amunlet/\u6307\u73AF.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b78b0dda27d3d64caa9253d4873afb1
+    m_Address: Assets/Materials/New Physics Material 2D.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e259aa1ad04fb1642b3d9d52cfde2425
+    m_Address: Assets/Materials/flash.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82a2c0a651b7c9640bab49884584bbce
+    m_Address: Assets/Animations/Graphics/Surroundings/Valley_Decor/shop_anim.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37410b7f669c1074fb8b9b2c5515ff7d
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_7.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055ba6155e3a0e34a9da5f24e8296b92
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_6.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01a88119111671641b814a34b2997bf3
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_5.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c919d15adfe9de74eb839e6556ae89db
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_4.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81b9adcebb2fd2f4991b690f1753284e
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_3.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3f32bc065e01ae48a1e43db5eb071b2
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_2.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b0c68e8d07d2db4482d5095ed9d7f54
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca74b3355d9bf7d49a738fc7c07d4ffb
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_0.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44a771273be31944bb58560de172e4da
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/transfer_gate_0.controller"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2d418161c3fc714d8693711a2e73c62
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Teleport/idle.anim"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15a9af6fb09cf5f4aae8459f23a331dc
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_9.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74cc9c4caa51ba0458381ce8e5f6d33a
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_8.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52b840bb1959c124a8b13fb3287a5388
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_7.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0aa54fb7c27c9548a4964df2b1c0950
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_6.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4c94bc3b83f2be48a81234890caa439
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_5.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d30aeba507be944495d7155c6063eba
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_4.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe28543649242294881c26d89ee49de3
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/TreasureBox/objects_common_0.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba8cae1cf892874788fa7199a5def7c
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Item/Coins/Coppers.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16db2f0423850b649b5f50a4cd9a6272
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Room/Floor/floor1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f02e0a51002345342affcc7afcc11432
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Character/Alchemist/Idle_Sheet.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6f6c1aeff2d6f4686a3319e911ed2e
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Character/Alchemist/idle.anim"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7759085140b1d0a48a4c3e75197eadb4
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Character/Alchemist/Alchemist.controller"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f645fd997174d6c4a96c00d2bec3e768
+    m_Address: "Assets/All/UI/\u5143\u6C14\u9A91\u58EB/Bullet/EnergyBall.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826dda4e978ab274a8677210b252df0a
+    m_Address: Assets/All/UI/Surroundings/Medieval_Castle/HUD/health_bar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16dcc94508854574889d26653c5d770c
+    m_Address: Assets/All/UI/Surroundings/Medieval_Castle/HUD/bar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 33794c3eb4e7acf4bafd0d56642ea739, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4589328e92450e5418ffb387ac6af342, type: 2}
+    - {fileID: 11400000, guid: 66157c28451e83040acbf0ea40290af8, type: 2}

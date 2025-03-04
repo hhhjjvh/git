@@ -1,0 +1,282 @@
+ID,SceneMainID,SceneSubID,CharacterID,CharacterFace,CharacterPosition,Dia_Type,Dia_ENG,Dia_CHT,Dia_CHS,Dia_JP,Dia_KR,Remark
+0,0,0,0,1,0,0,Hello guy! Welcome to the functional demo of 'Metroidvania game development tutorial'.,哈囉! 您好，歡迎來到 '類銀河惡魔城遊戲開發教程' 功能性Demo。,哈啰! 您好，欢迎来到 '类银河恶魔城游戏开发教程' 功能性Demo。,,,Demo 文本 - 主角Talk
+1,0,0,0,0,0,0,This demo was created by EG Studio's FishMan Wong alone and most of the art uses free materials from Unity Asset Store as well as a small portion of FishMan hand make materials.,本Demo是由EG工作室小魚神一人所製作，大部分美術使用了Unity商城的免費素材以及小部分原創素材。,本Demo是由EG工作室小鱼神一人所制作，大部分美术使用了Unity商城的免费素材以及小部分原创素材。,,,Demo 文本 - 主角Talk
+2,0,0,0,0,0,0,In addition，the demo is designed to more intuitively demonstrate how Unity 2023 can create exquisite 2D action games.,Demo是為了更直觀展示Unity 2023如何製作出精美的2D動作遊戲而做出來的。,Demo是为了更直观展示Unity 2023如何制作出精美的2D动作游戏而做出来的。,,,Demo 文本 - 主角Talk
+3,0,0,0,0,0,0,The game has a total of 14 functional room，explaining the learning period during every 7+7 period to help you quickly learn game production!,遊戲一共設有14個功能性房間，解釋7+7期間的學習期，幫助您快速學習遊戲製作!,游戏一共设有14个功能性房间，解释7+7期间的学习期，帮助您快速学习游戏制作!,,,Demo 文本 - 主角Talk
+4,0,0,0,1,0,0,Also，please follow the author's YouTube and Bili Bili. FishMan Wong will follow the demo to explain in detail how each function is implemented.,還有請您關注作者的Youtube和Bili Bili，小魚神會按著Demo詳細講解每一個功能到底是怎麼實現的。,还有请您关注作者的Youtube和Bili Bili，小鱼神会按着Demo详细讲解每一个功能到底是怎么实现的。,,,Demo 文本 - 主角Talk
+5,0,0,0,1,0,0,OK! Let's a GO!,關注好了就可以出發囉! 加油加油~,关注好了就可以出发啰! 加油加油~,,,Demo 文本 - 主角Talk
+6,0,0,0,1,0,0,I almost forgot， if you want to communicate directly with the FishMan Wong， you can go to the small room on the left to trigger the mechanism and the webpage will automatically pop up!! Looking forward to your contact ^_^,啊! 差點忘記了，如果想與作者小魚神直接交流，可以前往左面的小房間觸發機關就會自動彈出網頁啦!! 期待你的聯繫 ^_^,啊! 差点忘记了，如果想与作者小鱼神直接交流，可以前往左面的小房间触发机关就会自动弹出网页啦!! 期待你的联系 ^_^,,,Demo 文本 - 主角Talk
+7,0,0,0,1,0,0,And to the right is the 7+7 tutorial section.,而往右面走就是7+7教學部分了。,而往右面走就是7+7教学部分了。,,,Demo 文本 - 主角Talk
+8,,,,,,,,,,,,
+9,,,,,,,,,,,,
+10,0,0,0,0,0,1,Are you ready?,你準備好了嗎?,你准备好了吗?,,你準備好了嗎?,Demo 文本 - 主角Question
+11,0,0,0,0,0,0,You are really in a hurry，please look at the operation button icons in the background before starting.,真的急性子呢，開始之前看背景中的操作按鍵圖示喲。,真的急性子呢，开始之前看背景中的操作按键图标哟。,,,Demo 文本 - 主角Anwser 1 跳轉
+12,0,0,0,1,0,0,Hey look，in the scene background have key list，these illuminated buttons are valid buttons for this demo and the remaining buttons can be officially used after continued development.,看好囉，背景的遊戲操作列表，亮燈的按鍵是本Demo有效的按鍵，其餘的按鍵可在經持續開發後就可以正式使用啦。,看好啰，背景的游戏操作列表，亮灯的按键是本Demo有效的按键，其余的按键可在经持续开发后就可以正式使用啦。,,,
+13,0,0,0,0,0,0,If you feel that the default keys are not easy to use，you can press the start key to go to the main menu to modify them.,如果覺得默認鍵不好使，可以按下開始鍵前往主菜單進行修改。,如果觉得默认键不好使，可以按下开始键前往主菜单进行修改。,,,
+14,0,0,0,0,0,0,It seems that you are ready to learn. Before you start，look at the operation button icons in the background.,看來您已經準備好學習了，開始之前看背景中的操作按鍵圖示喲。,看来您已经准备好学习了，开始之前看背景中的操作按键图标哟。,,,Demo 文本 - 主角Anwser 2 跳轉
+15,0,0,0,1,0,0,Hey look，in the scene background have key list，these illuminated buttons are valid buttons for this demo and the remaining buttons can be officially used after continued development.,看好囉，背景的遊戲操作列表，亮燈的按鍵是本Demo有效的按鍵，其餘的按鍵可在經持續開發後就可以正式使用啦。,看好啰，背景的游戏操作列表，亮灯的按键是本Demo有效的按键，其余的按键可在经持续开发后就可以正式使用啦。,,,
+16,0,0,0,0,0,0,If you feel that the default keys are not easy to use，you can press the start key to go to the main menu to modify them.,如果覺得默認鍵不好使，可以按下開始鍵前往主菜單進行修改。,如果觉得默认键不好使，可以按下开始键前往主菜单进行修改。,,,
+17,0,0,0,0,0,0,Is it because you don't know how to press buttons yet? You can see the operation button icons in the background in detail.,是不是因為還不會按鍵操作啊? 您可以詳細看背景中的操作按鍵圖示喲。,是不是因为还不会按键操作啊? 您可以详细看背景中的操作按键图标哟。,,,Demo 文本 - 主角Anwser 3 跳轉
+18,0,0,0,1,0,0,Hey look，in the scene background have key list，these illuminated buttons are valid buttons for this demo and the remaining buttons can be officially used after continued development.,看好囉，背景的遊戲操作列表，亮燈的按鍵是本Demo有效的按鍵，其餘的按鍵可在經持續開發後就可以正式使用啦。,看好啰，背景的游戏操作列表，亮灯的按键是本Demo有效的按键，其余的按键可在经持续开发后就可以正式使用啦。,,,
+19,0,0,0,0,0,0,If you feel that the default keys are not easy to use，you can press the start key to go to the main menu to modify them.,如果覺得默認鍵不好使，可以按下開始鍵前往主菜單進行修改。,如果觉得默认键不好使，可以按下开始键前往主菜单进行修改。,,,
+20,0,0,0,0,0,0,Now that you have downloaded the teaching demo，don’t wait any longer，don’t waste time anymore，and quickly take a look at the operation button icons in the background.,既然都把教學Demo下載了就不要再等了，不要再白白浪費時間，趕緊看看背景中的操作按鍵圖示吧。,既然都把教学Demo下载了就不要再等了，不要再白白浪费时间，赶紧看看背景中的操作按键图标吧。,,,Demo 文本 - 主角Anwser 4 跳轉
+21,0,0,0,1,0,0,Hey look，in the scene background have key list，these illuminated buttons are valid buttons for this demo and the remaining buttons can be officially used after continued development.,看好囉，背景的遊戲操作列表，亮燈的按鍵是本Demo有效的按鍵，其餘的按鍵可在經持續開發後就可以正式使用啦。,看好啰，背景的游戏操作列表，亮灯的按键是本Demo有效的按键，其余的按键可在经持续开发后就可以正式使用啦。,,,
+22,0,0,0,0,0,0,If you feel that the default keys are not easy to use，you can press the start key to go to the main menu to modify them.,如果覺得默認鍵不好使，可以按下開始鍵前往主菜單進行修改。,如果觉得默认键不好使，可以按下开始键前往主菜单进行修改。,,,
+23,,,,,,,,,,,,
+24,,,,,,,,,,,,
+25,,,,,,,,,,,,
+26,,,,,,,,,,,,
+27,,,,,,,,,,,,
+28,,,,,,,,,,,,
+29,,,,,,,,,,,,
+30,0,0,0,0,0,0,Game development - Day 01 (Beginner),遊戲開發第一天! (初階),游戏开发第一天! (初阶),,,Demo 文本 - Day 01 開始
+31,0,0,0,0,0,0,Tutorial content : [1] Create a new URP 2D project，[2] TileMap application，[3] Test scene construction & background (Layer settings)，[4] Set collision layers.,講解內容 : 新建URP 2D項目、TileMap應用、測試場景搭建 & 背景顯示圖層、設定碰撞圖層。,讲解内容:新建URP 2D项目、TileMap应用、测试场景搭建 & 背景显示图层、设定碰撞图层。,,,
+32,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 01),你要跳過D1教學嗎?,你要跳过D1教学吗?,,,
+33,0,0,0,0,0,0,The development process on the Day 01 :,遊戲在首天的開發流程 :,游戏在首天的开发流程 :,,,Demo 文本 - Day 01 - Anwser
+34,0,0,0,0,0,0,1) Open Unity 2023 and create a new URP 2D project.,1) 從電腦打開Unity 2023並新建一個URP 2D項目。,1) 从计算机打开Unity 2023并新建一个URP 2D项目。,,,
+35,0,0,0,0,0,0,2) Open the TileMap function in Window -> 2D -> Tile Palette on Unity， and then import the 2D material into the Tile Palette to call it.,2) 在Unity上的Window -> 2D -> Tile Palette 打開 TileMap 功能，然後將已經設定好的Tile匯入到 Tile Palette 中就可以進行調用。,2) 在Unity上的Window -> 2D -> Tile Palette 打开 TileMap 功能，然后将已经设定好的Tile汇入到 Tile Palette 中就可以进行调用。,,,
+36,0,0,0,0,0,0,3) Set the collision Layers layering according to the needs of the project.,3) 根據項目的需求去設定碰撞圖層分層。,3) 根据项目的需求去设定碰撞图层分层。,,,
+37,0,0,0,0,0,0,4) Use the TileMap function to quickly build test scenarios.,4) 利用 TileMap 功能快速搭建測試的場景。,4) 利用 TileMap 功能快速搭建测试的场景。,,,
+38,0,0,0,0,0,0,This is what you need to learn and implement on your Day 01 of development!,以上是第一天開發需要學習和實現的部分!,以上是第一天开发需要学习和实现的部分!,,,
+39,,,,,,,,,,,,
+40,,,,,,,,,,,,
+41,,,,,,,,,,,,
+42,,,,,,,,,,,,
+43,,,,,,,,,,,,
+44,,,,,,,,,,,,
+45,,,,,,,,,,,,
+46,,,,,,,,,,,,
+47,,,,,,,,,,,,
+48,,,,,,,,,,,,
+49,,,,,,,,,,,,
+50,0,0,0,0,0,0,Game development - Day 02 (Beginner),遊戲開發第二天! (初階),游戏开发第二天! (初阶),,,Demo 文本 - Day 02 開始
+51,0,0,0,0,0,0,Tutorial content : [1] New character object， [2] Ground sersor， [3] Input system， [4] Character movement， [5] Character Jumping (Double Jumps),講解內容 : 新建角色、地面判定器、輸入系統、角色移動(平地)、角色跳躍(多段跳),讲解内容:新建角色、地面判定器、输入系统、角色移动(平地)、角色跳跃(多段跳),,,
+52,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 02),你要跳過D2教學嗎?,你要跳过D2教学吗?,,,
+53,0,0,0,0,0,0,The development process on the Day 02 :,遊戲在第二天的開發流程 :,游戏在第二天的开发流程 :,,,Demo 文本 - Day 02 - Anwser
+54,0,0,0,0,0,0,1) Create a character object and set up the ground sensor.,1) 我們需要建立一個角色的物件和設定判定器。,1) 我们需要建立一个角色的对象和设定判定器。,,,
+55,0,0,0,0,0,0,2) Establish a game-specific input system，and the character uses the return value of the input system to control or operate.,2) 建立遊戲專屬的輸入系統，角色利用再取得輸入系統的反回值來控制或操作。,2) 建立游戏专属的输入系统，角色利用再取得输入系统的反回值来控制或操作。,,,
+56,0,0,0,0,0,0,3) Write the basic movement and jumping functions of the character in C#.,3) C# 編寫角色基本移動和跳躍功能。,3) C# 编写角色基本移动和跳跃功能。,,,
+57,0,0,0,0,0,0,4) Add double jump function based on jump function.,4) 在跳躍功能上再編寫二段跳功能 (多段跳),4) 在跳跃功能上再编写二段跳功能 (多段跳),,,
+58,0,0,0,0,0,0,This is what you need to learn and implement on your Day 02 of development，for actual functional performance，you can see the background display box display and operation methods.,以上是第二天開發需要學習和實現的部分，實際功能表現可以看看背景的展示框展示和操作方式哦。,以上是第二天开发需要学习和实现的部分，实际菜单现可以看看背景的展示框展示和操作方式哦。,,,
+59,,,,,,,,,,,,
+60,0,0,0,0,0,0,Game development - Day 03 (Beginner),遊戲開發第三天! (初階),游戏开发第三天! (初阶),,,Demo 文本 - Day 03 開始
+61,0,0,0,0,0,0,Tutorial content : [1] Character animation controller，[2] Character sliding，[3] Sprint，[4] Camera following,講解內容 : 角色動畫控制、角色滑行、衝刺、鏡頭跟隨,讲解内容:角色动画控制、角色滑行、冲刺、镜头跟随,,,
+62,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 03),你要跳過D3教學嗎?,你要跳过D3教学吗?,,,
+63,0,0,0,0,0,0,The development process on the Day 03 :,遊戲在第三天的開發流程 :,游戏在第三天的开发流程 :,,,Demo 文本 - Day 03 - Anwser
+64,0,0,0,0,0,0,1) Create the character's animation controller and use parameters to make the character's animation change.,1) 製作角色的動畫控制器，利用參數使角色動畫變化。,1) 制作角色的动画控制器，利用参数使角色动画变化。,,,
+65,0,0,0,0,0,0,2) Write the character's sliding and sprint functions in C# to enable the character to move quickly.,2) C# 編寫角色滑行和閃避衝刺功能，使角色能快速移動。,2) C# 编写角色滑行和闪避冲刺功能，使角色能快速移动。,,,
+66,0,0,0,0,0,0,3) Write the camera following function in C#， so that the head camera can follow the target display in various situations.,3) C# 編寫鏡頭跟隨功能，頭鏡在多種情況下都能跟隨目標顯示。,3) C# 编写镜头跟随功能，头镜在多种情况下都能跟随目标显示。,,,
+67,0,0,0,0,0,0,This is the part that needs to be learned and implemented on the Day 03 of development. The actual functions of each part have been browsed in the background display box.,以上是第三天開發需要學習和實現的部分，每個部分功能的實際已經在背景展示框瀏覽。,以上是第三天开发需要学习和实现的部分，每个部分功能的实际已经在背景展示框浏览。,,,
+68,,,,,,,,,,,,
+69,,,,,,,,,,,,
+70,0,0,0,0,0,0,Game development - Day 04 (Beginner),遊戲開發第四天! (初階),游戏开发第四天! (初阶),,,Demo 文本 - Day 04 開始
+71,0,0,0,0,0,0,Tutorial content : [1] Character single attack，[2] Character and enemy attributes， [3] Damage system,講解內容 : 角色單發攻擊、角色及敵人的屬性、傷害計算系統,讲解内容:角色单发攻击、角色及敌人的属性、伤害计算系统,,,
+72,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 04),你要跳過D4教學嗎?,你要跳过D4教学吗?,,,
+73,0,0,0,0,0,0,The development process on the Day 04 :,遊戲在第四天的開發流程 :,游戏在第四天的开发流程 :,,,Demo 文本 - Day 04 - Anwser
+74,0,0,0,0,0,0,1) We use C# to program the character's single attack. When the player presses the attack button， the character will attack.,1) 我們利用 C# 編寫出角色單發攻擊，當玩家按下攻擊鍵時角色將進行攻擊。,1) 我们利用 C# 编写出角色单发攻击，当玩家按下攻击键时角色将进行攻击。,,,
+75,0,0,0,0,0,0,2) C# creates attribute formats for characters and enemies.,2) C# 建立角色和敵人的屬性格式。,2) C# 建立角色和敌人的属性格式。,,,
+76,0,0,0,0,0,0,3) Write a damage calculation system in C#. All damage calculations in the game are performed through this system.,3) C# 編寫傷害計算系統，遊戲內所有傷害的計算都經由該系統進行。,3) C# 编写伤害计算系统，游戏内所有伤害的计算都经由该系统进行。,,,
+77,0,0,0,0,0,0,including damage value， critical hits， active and passive skill effects， trigger status changes， etc.,包括傷害值、爆擊、主被動技能影響、觸發狀態變化等等…,包括伤害值、爆击、主被动技能影响、触发状态变化等等…,,,
+78,,,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 04 of development. For specific performance， please refer to the background display box.,以上是第四天開發需要學習和實現的部分，具體表現可以參考背景展示框。,以上是第四天开发需要学习和实现的部分，具体表现可以参考背景展示框。,,,
+79,,,,,,,,,,,,
+80,0,0,0,0,0,0,Game development - Day 05 (Beginner),遊戲開發第五天! (初階),游戏开发第五天! (初阶),,,Demo 文本 - Day 05 開始
+81,0,0,0,0,0,0,Tutorial content : [1] Character hurt animation， [2] Attributes calculation，  [3] HP UI display.,講解內容 : 角色受傷動畫及數值運算、角色UI血量顯示,讲解内容:角色受伤动画及数值运算、角色UI血量显示,,,
+82,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 05),你要跳過D5教學嗎?,你要跳过D5教学吗?,,,
+83,0,0,0,0,0,0,The development process on the Day 05 :,遊戲在第五天的開發流程 :,游戏在第五天的开发流程 :,,,Demo 文本 - Day 05 - Anwser
+84,0,0,0,0,0,0,1) C# to write the character injury animation & movement,1) C# 編寫角色受傷動畫 & 移動。,1) C# 编写角色受伤动画 & 移动。,,,
+85,0,0,0,0,0,0,2) C# to write the calculation and synchronization when the character is injured,2) C# 編寫角色受傷時的運算和同步。,2) C# 编写角色受伤时的运算和同步。,,,
+86,0,0,0,0,0,0,3) Build a UI display of character values ??in the upper left corner of the game screen,3) 在遊戲畫面左上方搭建角色數值的UI顯示。,3) 在游戏画面左上方搭建角色数值的UI显示。,,,
+87,0,0,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 05 of development. For specific animation performance， please refer to the background display box.,以上是第五天開發需要學習和實現的部分，具體動畫表現可以參考背景展示框。,以上是第五天开发需要学习和实现的部分，具体动画表现可以参考背景展示框。,,,
+88,,,,,,,,,,,,
+89,,,,,,,,,,,,
+90,0,0,0,0,0,0,Game development - Day 06 (Beginner),遊戲開發第六天! (初階),游戏开发第六天! (初阶),,,Demo 文本 - Day 06 開始
+91,0,0,0,0,0,0,Tutorial content : [1] Object HP bar / Separated UI HP bar display，  [2] Damage number pop-up effect， [3] Material System,講解內容 : 物件血條 / 分隔UI血條顯示、傷害數字彈出效果、材料庫,讲解内容:对象血条 / 分隔UI血条显示、伤害数字弹出效果、材料库,,,
+92,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 06),你要跳過D6教學嗎?,你要跳过D6教学吗?,,,
+93,0,0,0,0,0,0,The development process on the Day 06 :,遊戲在第六天的開發流程 :,游戏在第六天的开发流程 :,,,Demo 文本 - Day 06 - Anwser
+94,0,0,0,0,0,0,1) Build a separated UI to display the enemy's HP.,1) 搭建分隔式UI顯示敵人的HP。,1) 搭建分隔式UI显示敌人的HP。,,,
+95,0,0,0,0,0,0,2) Add damage number pop-up function in the damage calculation system.,2) 在傷害計算系統中添加傷害數字彈出功能。,2) 在伤害计算系统中添加伤害数字弹出功能。,,,
+96,0,0,0,0,0,0,3) Establish a material library to facilitate material calling and changes.,3) 建立材料庫以便素材調用和變化。,3) 建立材料库以便素材调用和变化。,,,
+97,0,0,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 06 of development. You can understand its operation by constantly attacking and observing the UI below.,以上是第六天開發需要學習和實現的部分，你可以通過不停的攻擊和觀察下方的UI得以理解其中的運作。,以上是第六天开发需要学习和实现的部分，你可以通过不停的攻击和观察下方的UI得以理解其中的运作。,,,
+98,,,,,,,,,,,,
+99,,,,,,,,,,,,
+100,0,0,0,0,0,0,Game development - Day 07 (Beginner),遊戲開發第七天! (初階),游戏开发第七天! (初阶),,,Demo 文本 - Day 07 開始
+101,0,0,0,0,0,0,Tutorial content : [1] Game setting， [2] Game controller support， [3] Save load system， [4] Database， [5] UI start menu,講解內容 : 遊戲設定、遊戲控制器檢測及輸入(XBox)、遊戲保存系統、Excel數據匯入、UI設定菜單,讲解内容:游戏设定、游戏控制器检测及输入(XBox)、游戏保存系统、Excel数据汇入、UI设定菜单,,,
+102,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 07),你要跳過D7教學嗎?,你要跳过D7教学吗?,,,
+103,0,0,0,0,0,0,The development process on the Day 07 :,遊戲在第七天的開發流程 :,游戏在第七天的开发流程 :,,,Demo 文本 - Day 07 - Anwser
+104,0,0,0,0,0,0,1) C# to establishes a game setting system.,1) C# 建立遊戲設定系統。,1) C# 建立游戏设定系统。,,,
+105,0,0,0,0,0,0,2) C# to write the Xbox game controller support.,2) C# 編寫Xbox遊戲控制器支持。,2) C# 编写Xbox游戏控制器支持。,,,
+106,0,0,0,0,0,0,3) C# to establishes a game saving system and obtains all target parameters and saves them in Xml format.,3) C# 建立遊戲保存系統，取得所有目標的參數以Xml方式保存。,3) C# 建立游戏保存系统，取得所有目标的参数以Xml方式保存。,,,
+107,0,0,0,0,0,0,4) Build a UI settings menu to change game settings and save them.,4) 搭建UI設定菜單以更改遊戲設定並保存。,4) 搭建UI设定菜单以更改游戏设定并保存。,,,
+108,0,0,0,0,0,0,The above is the part that needs to be learned and implemented on the Day 07 of development. You can press the start button to view and change the game settings.,以上是第七天開發需要學習和實現的部分，你可以按下開始鍵查看和更改遊戲設定。,以上是第七天开发需要学习和实现的部分，你可以按下开始键查看和更改游戏设定。,,,
+109,0,0,0,0,0,0,If you don't know how to control the menu， you can press the Input Tips to view it.,如不知道菜單怎麼操作，你可以按下鍵位提示查看。,如不知道菜单怎么操作，你可以按下键位提示查看。,,,
+110,0,0,0,0,0,0,Game development - Day 08 (Advanced),遊戲開發第八天! (進階),游戏开发第八天! (进阶),,,Demo 文本 - Day 08 開始
+111,0,0,0,0,0,0,Tutorial content : [1] Dual judgment of terrain， [2] Slope movement， [3] OneWay platform falling,講解內容 : 地形雙重判定、斜坡移動、跳躍平台,讲解内容:地形双重判定、斜坡移动、跳跃平台,,,
+112,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 08),你要跳過D8教學嗎?,你要跳过D8教学吗?,,,
+113,0,0,0,0,0,0,The development process on the Day 08 :,遊戲在第八天的開發流程 :,游戏在第八天的开发流程 :,,,Demo 文本 - Day 08 - Anwser
+114,0,0,0,0,0,0,1) Dual judgment of terrain written for jumping platforms and slope movements can more accurately judge the current movement status of the corner.,1) 為了跳躍平台和斜坡移動而編寫的地形雙重判定，能更精準判定角色當下的移動狀況，,1) 为了跳跃平台和斜坡移动而编写的地形双重判定，能更精准判定角色当下的移动状况，,,,
+115,0,0,0,0,0,0,The specific approach is to add more stringent judgment conditions to the character's movement function and ground judger.,具體做法是在角色的移動功能和地面判定器中增加更嚴格的判定條件。,具体做法是在角色的移动功能和地面判定器中增加更严格的判定条件。,,,
+116,0,0,0,0,0,0,2) Add Slope detection to the character's movement so that when the character encounters a slope when moving horizontally， the speed up and down the slope can be automatically converted.,2) 在角色移動中添加斜坡檢測，使角色在水平移動遇到斜坡時，上下坡的速度能自動換算。,2) 在角色移动中添加斜坡检测，使角色在水平移动遇到斜坡时，上下坡的速度能自动换算。,,,
+117,0,0,0,0,0,0,3) Utilize the double judgment of terrain to recognize that the bottom of the character is currently a jumping platform and can pass from top to bottom after the player inputs the specified command.,3) 利用地形雙重判定，識別角色底部當下為跳躍平台並且能在玩家輸入指定指令後可從上而下穿過。,3) 利用地形双重判定，识别角色底部当下为跳跃平台并且能在玩家输入指定指令后可从上而下穿过。,,,
+118,,,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 08 of development. You can refer to the operation tips of the display box in this area and experience the test in the corresponding place.,以上是第八天開發需要學習和實現的部分，你可以在此區域參考展示框的操作提示，在相應的地方體驗測試。,以上是第八天开发需要学习和实现的部分，你可以在此区域参考展示框的操作提示，在相应的地方体验测试。,,,
+119,,,,,,,,,,,,
+120,0,0,0,0,0,0,Game development - Day 09 (Advanced),遊戲開發第九天! (進階),游戏开发第九天! (进阶),,,Demo 文本 - Day 09 開始
+121,0,0,0,0,0,0,Tutorial content : [1] Wall jumping， [2] Grab / Hang， [3] Ladder climb,講解內容 : 牆壁彈跳、抓住 / 懸掛、爬梯子,讲解内容:墙壁弹跳、抓住 / 悬挂、爬梯子,,,
+122,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 09),你要跳過D9教學嗎?,你要跳过D9教学吗?,,,
+123,0,0,0,0,0,0,The development process on the Day 09 :,遊戲在第九天的開發流程 :,游戏在第九天的开发流程 :,,,Demo 文本 - Day 09 - Anwser
+124,0,0,0,0,0,0,1) C# to write the character's grasping and wall jumping mechanisms， and controls the bouncing direction and speed.,1) C# 編寫角色抓緊和牆壁彈跳機制，彈跳的方向和速度的控制。,1) C# 编写角色抓紧和墙壁弹跳机制，弹跳的方向和速度的控制。,,,
+125,0,0,0,0,0,0,2) C# to write the character's grabbing/suspension mechanism to give the character more different ways to move.,2) C# 編寫角色抓抓住 / 懸掛機制，讓角色有更多不同的移動方式。,2) C# 编写角色抓抓住 / 悬挂机制，让角色有更多不同的移动方式。,,,
+126,0,0,0,0,0,0,3) C# to write a character climbing mechanism to make the character more flexible when moving on different terrains.,3) C# 編寫角色爬梯子機制，讓角色在不同地形移動時更靈活。,3) C# 编写角色爬梯子机制，让角色在不同地形移动时更灵活。,,,
+127,0,0,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 09 of development. Please refer to the background display frame and self-operation experience.,以上是第九天開發需要學習和實現的部分，請參考背景展示框和自行操作體驗吧。,以上是第九天开发需要学习和实现的部分，请参考背景展示框和自行操作体验吧。,,,
+128,,,,,,,,,,,,
+129,,,,,,,,,,,,
+130,0,0,0,0,0,0,Game development - Day 10 (Advanced),遊戲開發第十天! (進階),游戏开发第十天! (进阶),,,Demo 文本 - Day 10 開始
+131,0,0,0,0,0,0,Tutorial content : [1] Stun cancel， [2] Sprint attack， [3] Time line system,講解內容 : 硬直取消、衝刺攻擊、時間線系統,讲解内容:硬直取消、冲刺攻击、时间线系统,,,
+132,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 10),你要跳過D10教學嗎?,你要跳过D10教学吗?,,,
+133,0,0,0,0,0,0,The development process on the Day 10 :,遊戲在第十天的開發流程 :,游戏在第十天的开发流程 :,,,Demo 文本 - Day 10 - Anwser
+134,0,0,0,0,0,0,1) C# to write a character kick cancellation mechanism. When the character attacks， slides， sprints， or uses a skill， the current action kick is cancelled.,1) C# 編寫角色硬直取消機制，當角色攻擊時發動滑行、衝刺或技能時取消當下的動作硬直。,1) C# 编写角色硬直取消机制，当角色攻击时发动滑铲、冲刺或技能时取消当下的动作硬直。,,,
+135,0,0,0,0,0,0,2) C# to write the character's sprint attack， and add the sprint attack to be launched when the character sprints + the player enters the attack key.,2) C# 編寫角色衝刺攻擊，添加在角色衝刺 + 玩家輸入攻擊鍵時發動衝刺攻擊。,2) C# 编写角色冲刺攻击，添加在角色冲刺 + 玩家输入攻击键时发动冲刺攻击。,,,
+136,0,0,0,0,0,0,3) C# to create a timeline system， that control different types of objects with different time parameters， including running speed and time pause.,3) C# 建立時間線系統，以不同的時間參數控制不同類型的物件，包括快慢速度和時間停頓，,3) C# 建立时间线系统，以不同的时间参数控制不同类型的对象，包括快慢速度和时间停顿，,,,
+137,0,0,0,0,0,0,This system will be widely used in the Day 11 tutorial.,此系統將會在Day 11教學裡大幅度使用。,此系统将会在Day 11教学里大幅度使用。,,,
+138,,,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 10 of development. Please refer to the operation of the background display box!,以上是第十天開發需要學習和實現的部分，請參考背景展示框的操作吧!,以上是第十天开发需要学习和实现的部分，请参考背景展示框的操作吧!,,,
+139,,,,,,,,,,,,
+140,0,0,0,0,0,0,Game development - Day 11 (Advanced),遊戲開發第十一天! (進階),游戏开发第十一天! (进阶),,,Demo 文本 - Day 11 開始
+141,0,0,0,0,0,0,Tutorial content : [1] Hit stun， [2] Counter attack， [3] Slow motion / time pause,講解內容 : 擊中停頓、閃避反擊、慢動作 / 時間停頓,讲解内容:击中停顿、闪避反击、慢动作 / 时间停顿,,,
+142,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 11),你要跳過D11教學嗎?,你要跳过D11教学吗?,,,
+143,0,0,0,0,0,0,The development process on the Day 11 :,遊戲在第十一天的開發流程 :,游戏在第十一天的开发流程 :,,,Demo 文本 - Day 11 - Anwser
+144,0,0,0,0,0,0,1) Add the hit stun function to the attack attributes. Appropriate hit stun can effectively demonstrate the sense of strike.,1) 在攻擊屬性中添加擊中停頓功能，適當的擊中停頓能夠有效展示出打擊感。,1) 在攻击属性中添加击中停顿功能，适当的击中停顿能够有效展示出打击感。,,,
+145,0,0,0,0,0,0,2) Add a short dodge effective time during sprinting. After triggering， the attack will become a powerful counter attack.,2) 在衝刺中添加短暫閃避有效時間，觸發後攻擊將變成強力的反擊。,2) 在冲刺中添加短暂闪避有效时间，触发后攻击将变成强力的反击。,,,
+146,0,0,0,0,0,0,3) Add a slow-motion function when sprint dodge is triggered， and use the timeline system to achieve more changes in the battle.,3) 在衝刺閃避觸發時添加慢動作功能，利用時間線系統來實現，令戰鬥有更多的變化。,3) 在冲刺闪避触发时添加慢动作功能，利用时间线系统来实现，令战斗有更多的变化。,,,
+147,0,0,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 11 of development. Please refer to the background display box for comparison to see the performance of different parameters.,以上是第十一天開發需要學習和實現的部分，請參考背景展示框對比，可以看得出不同參數的表現。,以上是第十一天开发需要学习和实现的部分，请参考背景展示框对比，可以看得出不同参数的表现。,,,
+148,,,,,,,,,,,,
+149,,,,,,,,,,,,
+150,0,0,0,0,0,0,Game development - Day 12 (Advanced),遊戲開發第十二天! (進階),游戏开发第十二天! (进阶),,,Demo 文本 - Day 12 開始
+151,0,0,0,0,0,0,Tutorial content : [1] Game controller extra support， [2] Setting change & display， [3] Input key change,講解內容 : 各類遊戲控制器支持、設定更改及顯示、鍵位更改,讲解内容:各类游戏控制器支持、设定更改及显示、键位更改,,,
+152,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 12),你要跳過D12教學嗎?,你要跳过D12教学吗?,,,
+153,0,0,0,0,0,0,The development process on the Day 12 :,遊戲在第十二天的開發流程 :,游戏在第十二天的开发流程 :,,,Demo 文本 - Day 12 - Anwser
+154,0,0,0,0,0,0,1) C# to writes more different types of game controllers to support and add calls to the input system， such as controller of PS4， NS Pro， etc...,1) C# 編寫更多不同類型的遊戲控制器支持並且加入到輸入系統中調用，例如PS4、NS Pro等等控制器…,1) C# 编写更多不同类型的游戏控制器支持并且加入到输入系统中调用，例如PS4、NS Pro等等控制器…,,,
+155,0,0,0,0,0,0,2) The UI display is automatically refreshed when settings are changed， and all settings are automatically saved in Xml format through the saving system.,2) 設定更改時自動刷新UI顯示，並且所有設定會自動經保存系統以Xml方式保存。,2) 设定更改时自动刷新UI显示，并且所有设定会自动经保存系统以Xml方式保存。,,,
+156,0,0,0,0,0,0,3) Added a new Custom Input Keys page to the settings menu， allowing players to customize keyboard and controller key positions according to their own preferences.,3) 在設定菜單裡添加全新自定義鍵頁面，玩家可以根據自己的喜好自定義鍵盤和控制器的鍵位。,3) 在设定菜单里添加全新自定义键页面，玩家可以根据自己的喜好自定义键盘和控制器的键位。,,,
+157,0,0,0,0,0,0,The above are the parts that need to be learned and implemented on the Day 12 of development. Please open the settings menu and try to modify， save， and reset the settings.,以上是第十二天開發需要學習和實現的部分，請打開設定菜單嘗試修改、保存、重置設定哦。,以上是第十二天开发需要学习和实现的部分，请打开设定菜单尝试修改、保存、重置设定哦。,,,
+158,,,,,,,,,,,,
+159,,,,,,,,,,,,
+160,0,0,0,0,0,0,Game development - Day 13 (Advanced),遊戲開發第十三天! (進階),游戏开发第十三天! (进阶),,,Demo 文本 - Day 13 開始
+161,0,0,0,0,0,0,Tutorial content : [1] Audio system， [2] Audio library， [3] Audio fade smooth,講解內容 : 聲音系統、音效庫、自動調配音樂音量功能,讲解内容:声音系统、音效库、自动调配音乐音量功能,,,
+162,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 13),你要跳過D13教學嗎?,你要跳过D13教学吗?,,,
+163,0,0,0,0,0,0,The development process on the Day 13 :,遊戲在第十三天的開發流程 :,游戏在第十三天的开发流程 :,,,Demo 文本 - Day 13 - Anwser
+164,0,0,0,0,0,0,1) C# to creates a sound system， and all background music and some sound effects are played through this system.,1) C# 建立聲音系統，所有的背景音樂和部分的音效都經此系統播放。,1) C# 建立声音系统，所有的背景音乐和部分的音效都经此系统播放。,,,
+165,0,0,0,0,0,0,2) C# to creates a sound effects library， a centralized place for all music and sound effects materials to facilitate calls by any object or system.,2) C# 建立音效庫，所有音樂和音效素材的集中地，以方便任何一個物件或系統調用。,2) C# 建立音效库，所有音乐和音效素材的集中地，以方便任何一个对象或系统调用。,,,
+166,0,0,0,0,0,0,3) When the background music track of the sound system is changed， it will be switched in a fade-in and fade-out manner to reduce the abruptness when switching music.,3) 在聲音系統的背景音樂曲目變更時，將以淡入淡出的方式切換，減少音樂切換時的突兀感。,3) 在声音系统的背景音乐曲目变更时，将以淡入淡出的方式切换，减少音乐切换时的突兀感。,,,
+167,0,0,0,0,0,0,The above are the parts that need to be learned and implemented in the development of the Day 13. You can operate and experience it yourself according to the sample of the background display frame.,以上是第十三天開發需要學習和實現的部分，可以根據背景展示框的試範自行操作體驗一下。,以上是第十三天开发需要学习和实现的部分，可以根据背景展示框的试范自行操作体验一下。,,,
+168,,,,,,,,,,,,
+169,,,,,,,,,,,,
+170,0,0,0,0,0,0,Game development - Day 14 (Advanced),遊戲開發第十四天! (進階),游戏开发第十四天! (进阶),,,Demo 文本 - Day 14 開始
+171,0,0,0,0,0,0,Tutorial content : [1] Game function manage & optimization， [2] Improving operational performance and reducing code volume,講解內容 : 遊戲功能管理及優化、運行性能提升及減少代碼數量 [架構瘦身],讲解内容:游戏功能管理及优化、运行性能提升及减少代码数量 [架构减肥],,,
+172,0,0,0,0,0,1,Do you want to skip the tutorial? (Day 14),你要跳過D14教學嗎?,你要跳过D14教学吗?,,,
+173,0,0,0,0,0,0,The development process on the Day 14 :,遊戲在第十四天的開發流程 :,游戏在第十四天的开发流程 :,,,Demo 文本 - Day 14 - Anwser
+174,0,0,0,0,0,0,1) Organize messy functions and optimize unnecessary repetitive codes.,1) 雜亂零碎的功能整理，優化不必要的重複性代碼。,1) 杂乱零碎的功能整理，优化不必要的重复性代码。,,,
+175,0,0,0,0,0,0,2) Unify calls to sort out severely fragmented code structures and improve running performance.,2) 統一調用，整理碎片化嚴重的代碼結構，提升運行性能。,2) 统一调用，整理碎片化严重的代码结构，提升运行性能。,,,
+176,0,0,0,0,0,0,The above are the parts that need to be learned and implemented in the development of the Day 14. The unified optimization of fragmented functions and the slimming of the architecture have an important impact on the efficiency and operating performance of the mid- and late-stage development of the game.,以上是第十四天開發需要學習和實現的部分，碎片式功能統一優化和架構瘦身對遊戲中後期開發的效率和運行性能有著重要的影響。,以上是第十四天开发需要学习和实现的部分，碎片式功能统一优化和架构减肥对游戏中后期开发的效率和运行性能有着重要的影响。,,,
+177,0,0,0,0,0,0,Please carefully check whether the game project contains a large amount of similar code running in different scripts. If there is a large amount of duplicate code at this stage， no optimization will be carried out.,請仔細看看遊戲項目中是否含有大量相類似的代碼在不同的腳本中運行，如果現階段已經出現大量重複代碼又不及時優化的話。,请仔细看看游戏项目中是否含有大量相类似的代码在不同的脚本中运行，如果现阶段已经出现大量重复代码又及时优化的话。,,,
+178,0,0,0,0,0,0,Then future systematic modifications and optimizations will take more time and energy to deal with， so it is recommended to carry out small optimization and unification immediately after each function is written.,那麼以後的系統性修改和優化將要花更太時間和精力去處理，所以建議每當一個功能編寫完成後立即進行小優和統一化。,那么以后的系统性修改和优化将要花更太时间和精力去处理，所以建议每当一个功能编写完成后立即进行小优和统一化。,,,
+179,0,0,0,0,0,0,To reduce the time and energy costs of long-term system development and modification.,以降低長遠系統開發、修改的時間和精力成本。,以降低长远系统开发、修改的时间和精力成本。,,,
+180,,,,,,,,,,,,
+181,,,,,,,,,,,,
+182,,,,,,,,,,,,
+183,,,,,,,,,,,,
+184,,,,,,,,,,,,
+185,,,,,,,,,,,,
+186,,,,,,,,,,,,
+187,,,,,,,,,,,,
+188,,,,,,,,,,,,
+189,,,,,,,,,,,,
+190,0,0,0,1,0,0,After 7+7 development tutorials， demonstrations and exercises， I believe you have learned how to build the game system framework in 14 days， but...,經過7+7開發教程、展示和練習，我相信你已經學會了在14天內如何建構遊戲系統框架，不過…,经过7+7开发教程、展示和练习，我相信你已经学会了在14天内如何建构游戏系统框架，不过…,,,Demo 文本 - 完結
+191,0,0,0,1,0,0,If you can answer the following questions， I will admit that you have really learned it and let’s get started!,如果你能答對以下的問題，我就認可你是真的學會了，要開始囉!,如果你能答对以下的问题，我就认可你是真的学会了，要开始啰!,,,
+192,0,0,0,1,0,0,Question 01 :,問題01 :,问题01 :,,,
+193,0,0,0,0,0,1,What function of Unity was used to build the game's terrain? What format of light source is used in the game?,遊戲的地形是用了Unity的什麼功能搭建的? 遊戲使用了什麼格式的光源?,游戏的地形是用了Unity的什么功能搭建的? 游戏使用了什么格式的光源?,,,
+194,0,0,0,0,0,0,I got the first question wrong!,第一題就答錯了!,第一题就答错了!,,,Demo 文本 - Question 01 - Wrong
+195,0,0,0,0,0,0,I think you should carefully read the teaching explanation of Day 01 before taking up the challenge.,我想你應該認真看看 Day 01 的教學講解後再來挑戰。,我想你应该认真看看 Day 01 的教学讲解后再来挑战。,,,
+196,0,0,0,1,0,0,Then the basic questions must be answered correctly.,那麼基礎的問題必須答對。,那么基础的问题必须答对。,,,Demo 文本 - Question 01 - Anwser
+197,0,0,0,1,0,0,Question 02 :,問題02 :,问题02 :,,,
+198,0,0,0,0,0,1,What commands do players use to control game characters?,玩家透過什麼指令來控制遊戲角色?,玩家透过什么指令来控制游戏角色?,,,
+199,0,0,0,0,0,0,Huh? If you passed the tutorial directly， you can get the wrong answer.,哈? 你是不是直接過了教程的，這都可以答錯的。,哈? 你是不是直接过了教程的，这都可以答错的。,,,Demo 文本 - Question 02 - Wrong
+200,0,0,0,0,0,0,Please go back to the Day 02 teaching part and study it again.,請你回去到 Day 02 教學部分重新學習一下。,请你回去到 Day 02 教学部分重新学习一下。,,,
+201,0,0,0,1,0,0,It is impossible to answer such a basic question wrong.,這麼初階的問題不可能答錯的。,这么初阶的问题不可能答错的。,,,Demo 文本 - Question 02 - Anwser
+202,0,0,0,1,0,0,Question 03 :,問題03 :,问题03 :,,,
+203,0,0,0,0,0,1,Which functional component of Unity does character animation obtain parameters from?,角色動畫經Unity什麼功能組件取得參數的?,角色动画经Unity什么功能组件取得参数的?,,,
+204,0,0,0,0,0,0,I'm worried about your gaming career.,我為你的遊戲事業感到擔憂。,我为你的游戏事业感到担忧。,,,Demo 文本 - Question 03 - Wrong
+205,0,0,0,0,0,0,Please go back to the Day 03 teaching part and study it again.,請你回去到 Day 03 教學部分重新學習一下吧。,请你回去到 Day 03 教学部分重新学习一下吧。,,,
+206,0,0,0,1,0,0,You're lucky， there's a 50-50 chance of getting the answer right.,運氣不錯喲，一半一半機率都能答對。,运气不错哟，一半一半机率都能答对。,,,Demo 文本 - Question 03 - Anwser
+207,0,0,0,1,0,0,Question 04 :,問題04 :,问题04 :,,,
+208,0,0,0,0,0,1,What is the process for calculating the damage value when a character attacks an enemy?,角色攻擊敵人時傷害數值的運算流程是?,角色攻击敌人时伤害数值的运算流程是?,,,
+209,0,0,0,0,0,0,Oh， it seems you got the process wrong.,喔，你好像把流程搞錯了。,喔，你好像把流程搞错了。,,,Demo 文本 - Question 04 - Wrong
+210,0,0,0,0,0,0,Please go back to the Day 04 teaching part and study it again.,請你回去到 Day 04 教學部分重新學習一下。,请你回去到 Day 04 教学部分重新学习一下。,,,
+211,0,0,0,1,0,0,Pretty good.,嗯哼，廷不錯哦。,嗯哼，廷不错哦。,,,Demo 文本 - Question 04 - Anwser
+212,0,0,0,0,0,0,Question 05 :,問題05 :,问题05 :,,,
+213,0,0,0,0,0,1,What are the components of Unity UI that control coordinates， transparency values， image display， and text display?,Unity UI 控制坐標、透明值、圖像顯示、文字顯示的組件分別是?,Unity UI 控制坐标、透明值、图像显示、文字显示的组件分别是?,,,
+214,0,0,0,0,0,0,No， you can open Unity's UI and add components to view.,不對，你可以打開Unity的UI自行添加組件查看。,不对，你可以打开Unity的UI自行添加组件查看。,,,Demo 文本 - Question 05 - Wrong
+215,0,0,0,0,0,0,Go back to the Day 05 tutorial and study it again.,回去到 Day 05 教學部分重新學習一下。,回去到 Day 05 教学部分重新学习一下。,,,
+216,0,0,0,1,0,0,Correct， it seems that you have read the tutorial carefully!,正確，看來有認真看教程!,正确，看来有认真看教程!,,,Demo 文本 - Question 05 - Anwser
+217,0,0,0,1,0,0,Question 06 :,問題06 :,问题06 :,,,
+218,0,0,0,0,0,1,What components need to be called to display the enemy's UI blood volume properly?,敵人的UI血量顯示需要調用哪些組件才能正常顯示?,敌人的UI血量显示需要调用哪些组件才能正常显示?,,,
+219,0,0,0,0,0,0,This question may be difficult， but that is no excuse for getting it wrong.,可能這一題難度比較高，但並不是答錯的借口。,可能这一题难度比较高，但并不是答错的借口。,,,Demo 文本 - Question 06 - Wrong
+220,0,0,0,0,0,0,Please go back to the Day 06 teaching part and study it again.,請你回去到 Day 06 教學部分重新學習一下。,请你回去到 Day 06 教学部分重新学习一下。,,,
+221,0,0,0,1,0,0,Nice， please keep it up.,廷不錯，請保持著哦。,廷不错，请保持着哦。,,,Demo 文本 - Question 06 - Anwser
+222,0,0,0,1,0,0,Question 07 :,問題07 :,问题07 :,,,
+223,0,0,0,0,0,1,What is the access process for saving the system?,保存系統的存取流程是?,保存系统的存取流程是?,,,
+224,0,0,0,0,0,0,Oh? Tell me you pressed the wrong button with your hand， right?,喔? 告訴我你是手滑按錯的吧?,喔? 告诉我你是手滑按错的吧?,,,Demo 文本 - Question 07 - Wrong
+225,0,0,0,0,0,0,If you forget， you can go back to the Day 07 teaching part and learn it again.,如果忘記了可以回去 Day 07 教學部分重新學習一下。,如果忘记了可以回去 Day 07 教学部分重新学习一下。,,,
+226,0,0,0,1,0,0,The idea is clear， next question!,思路廷清晰嘛，下一題!,思路廷清晰嘛，下一题!,,,Demo 文本 - Question 07 - Anwser
+227,0,0,0,1,0,0,Question 08 :,問題08 :,问题08 :,,,
+228,0,0,0,0,0,1,What method is used to determine the double determination of terrain?,地形雙重判定是利用什麼方式來判定?,地形双重判定是利用什么方式来判定?,,,
+229,0,0,0,0,0,0,Wrong answer， or you can look at how the C# terrain determiner on Unity is written.,答錯，或者你可以看看Unity上的C# 地形判定器是怎麼寫的。,答错，或者你可以看看Unity上的C# 地形判定器是怎么写的。,,,Demo 文本 - Question 08 - Wrong
+230,0,0,0,0,0,0,Please go back to the Day 08 teaching part and study it again.,請你回去到 Day 08 教學部分重新學習一下。,请你回去到 Day 08 教学部分重新学习一下。,,,
+231,0,0,0,1,0,0,There is no reason for this to be wrong!,這沒有答錯的理由啦!,这没有答错的理由啦!,,,Demo 文本 - Question 08 - Anwser
+232,0,0,0,1,0,0,Question 09 :,問題09 :,问题09 :,,,
+233,0,0,0,0,0,1,What is the C# process for wall bouncing in this tutorial?,本教程的牆壁彈跳的 C# 流程是?,本教程的墙壁弹跳的 C# 流程是?,,,
+234,0,0,0,0,0,0,This may be your own DIY approach， not the approach of this tutorial.,這可能是你自己DIY的做法，非本教學的做法。,这可能是你自己DIY的做法，非本教学的做法。,,,Demo 文本 - Question 09 - Wrong
+235,0,0,0,0,0,0,Please go back to the Day 09 teaching part and study it again.,請你回去到 Day 09 教學部分重新學習一下。,请你回去到 Day 09 教学部分重新学习一下。,,,
+236,0,0,0,1,0,0,Correct!,正確!,正确!,,,Demo 文本 - Question 09 - Anwser
+237,0,0,0,1,0,0,Question 10 :,問題10 :,问题10 :,,,
+238,0,0,0,0,0,1,What actions can the character use to cancel the stiffness in this tutorial?,在這教程中角色可以通過什麼動作來取消硬直?,在这教程中角色可以通过什么动作来取消硬直?,,,
+239,0,0,0,0,0,0,I got the answer wrong. I really hope you got it wrong for the first time. Study hard!,答錯了，真希望你是第一次答錯，要用心學習!,答错了，真希望你是第一次答错，要用心学习!,,,Demo 文本 - Question 10 - Wrong
+240,0,0,0,0,0,0,Please go back to the Day 10 teaching part and study it again.,請你回去到 Day 10 教學部分重新學習一下。,请你回去到 Day 10 教学部分重新学习一下。,,,
+241,0,0,0,1,0,0,This is very simple!,這很簡單吧!,这很简单吧!,,,Demo 文本 - Question 10 - Anwser
+242,0,0,0,1,0,0,Question 11 :,問題11 :,问题11 :,,,
+243,0,0,0,0,0,1,What does hitting pause as this tutorial explains have a big impact?,本教程解釋的擊中停頓對什麼有著很大的影響?,本教程解释的击中停顿对什么有着很大的影响?,,,
+244,0,0,0,0,0,0,No， that’s not what teaching says.,不對，教學不是這樣說的。,不对，教学不是这样说的。,,,Demo 文本 - Question 11 - Wrong
+245,0,0,0,0,0,0,Please go back to the Day 11 teaching part and study it again.,請你回去到 Day 11 教學部分重新學習一下。,请你回去到 Day 11 教学部分重新学习一下。,,,
+246,0,0,0,1,0,0,Correct， next question!,正解，下一題!,正解，下一题!,,,Demo 文本 - Question 11 - Anwser
+247,0,0,0,1,0,0,Question 12 :,問題12 :,问题12 :,,,
+248,0,0,0,0,0,1,Which of the following is the correct description of the custom key function?,以下哪個是自定義鍵功能的正確描述?,以下哪个是自定义键功能的正确描述?,,,
+249,0,0,0,0,0,0,Incorrect， why do you think this is the answer?,不正確，為什麼你會覺得是這個答案?,不正确，为什么你会觉得是这个答案?,,,Demo 文本 - Question 12 - Wrong
+250,0,0,0,0,0,0,Please go back to the Day 12 teaching part and study it again.,請你回去到 Day 12 教學部分重新學習一下。,请你回去到 Day 12 教学部分重新学习一下。,,,
+251,0,0,0,1,0,0,Very good， almost over， keep it up!,非常好，快結束了，保持著!,非常好，快结束了，保持着!,,,Demo 文本 - Question 12 - Anwser
+252,0,0,0,1,0,0,Question 13 :,問題13 :,问题13 :,,,
+253,0,0,0,0,0,1,In the tutorial display， what is the process for the character to trigger background music?,在教程的展示裡，角色觸發背景音樂的流程是?,在教程的展示里，角色触发背景音乐的流程是?,,,
+254,0,0,0,0,0,0,Or maybe this is your DIY trigger process…,或者這是你DIY的觸發流程…,或者这是你DIY的触发流程…,,,Demo 文本 - Question 13 - Wrong
+255,0,0,0,0,0,0,Please go back to the Day 13 teaching part and study it again.,請你回去到 Day 13 教學部分重新學習一下。,请你回去到 Day 13 教学部分重新学习一下。,,,
+256,0,0,0,1,0,0,Yes， you are awesome!,沒錯，你真棒!,没错，你真棒!,,,Demo 文本 - Question 13 - Anwser
+257,0,0,0,1,0,0,Question 14 :,問題14 :,问题14 :,,,
+258,0,0,0,0,0,1,Which of the following is a functional optimization?,以下哪個是功能優化?,以下哪个是功能优化?,,,
+259,0,0,0,0,0,0,You can understand even if you answer wrongly. You can practice more and write more to find out the areas that can be optimized.,答錯也能理解，可以多練習多重寫找出可優化的地方。,答错也能理解，可以多练习多重写找出可优化的地方。,,,Demo 文本 - Question 14 - Wrong
+260,0,0,0,0,0,0,Or go back and study again in the Day 14 tutorial.,或者回去到 Day 14 教學部分重新學習一下。,或者回去到 Day 14 教学部分重新学习一下。,,,
+261,0,0,0,1,0,0,Congratulations， you have completely passed the 7+7 high-quality tutorials and functional demo of the 'Metroidvania' 2D action game.,恭喜你已經完全通過類惡魔城2D動作遊戲 7+7 精品教程與功能性Demo。,恭喜你已经完全通过类恶魔城2D动作游戏 7+7 精品教程与功能性Demo。,,,Demo 文本 - Question 14 - Anwser
+262,0,0,0,1,0,0,If you are deeply interested in game development， you can follow the FishMan Wong's Youtube and Bili Bili channels of this tutorial， and you can also join the social media established by the author for direct communication.,如對遊戲開發深感興趣，你可以關注一下本教程的作者小魚神的Youtube和Bili Bili頻道，還可以加入作者建立的社交媒體直接交流哦。,如对游戏开发深感兴趣，你可以关注一下本教程的作者小鱼神的Youtube和Bili Bili频道，还可以加入作者建立的社交媒体直接交流哦。,,,
+263,0,0,0,1,0,0,Hope we can chat on the channel and social media!,希望我們能在頻道和社交媒體裡交流聊天!,希望我们能在频道和社交媒体里交流聊天!,,,
+264,0,0,0,1,0,0,I wish you great progress in game development! I also look forward to your communication!,祝你在遊戲開發上有飛躍的進步! 也期望你的交流!,祝你在游戏开发上有飞跃的进步! 也期望你的交流!,,,
+265,0,0,0,1,0,-999,.,.,.,,,Demo 文本 - 結束
+266,,,,,,,,,,,,
+267,,,,,,,,,,,,
+268,,,,,,,,,,,,
+269,,,,,,,,,,,,
+270,,,,,,,,,,,,
+271,,,,,,,,,,,,
+272,,,,,,,,,,,,
+273,,,,,,,,,,,,
+274,,,,,,,,,,,,
+275,,,,,,,,,,,,
+276,,,,,,,,,,,,
+277,,,,,,,,,,,,
+278,,,,,,,,,,,,
+279,,,,,,,,,,,,
+280,,,,,,,,,,,,

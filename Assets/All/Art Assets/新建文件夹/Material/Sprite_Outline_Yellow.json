@@ -1,0 +1,98 @@
+{
+  "m_Shader": {
+    "m_FileID": 5,
+    "m_PathID": 57,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_FrameTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaThreshold": 0.0,
+      "_Angle": 45.0,
+      "_ConnectedAlpha": 0.0,
+      "_EnableExternalAlpha": 0.0,
+      "_OutlineEnabled": 1.0,
+      "_OutlineMode": 1.0,
+      "_OutlinePosition": 1.0,
+      "_OutlineShape": 0.0,
+      "_Thickness": 0.35,
+      "_TileMode": 0.0,
+      "_Weight": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_GradientOutline1": {
+        "r": 0.99203205,
+        "g": 1.0,
+        "b": 0.7987421,
+        "a": 1.0
+      },
+      "_GradientOutline2": {
+        "r": 1.0,
+        "g": 0.98499954,
+        "b": 0.19607842,
+        "a": 1.0
+      },
+      "_ImageOutline": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RendererColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SolidOutline": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Sprite_Outline_Yellow",
+  "Name": "Sprite_Outline_Yellow"
+}

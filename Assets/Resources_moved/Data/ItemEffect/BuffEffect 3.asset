@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254385db9137f8145a310a9ac718ead7, type: 3}
+  m_Name: BuffEffect 3
+  m_EditorClassIdentifier: 
+  itemEffectDescription: "\u88AB\u653B\u51FB\u65F6\u589E\u52A020\u70B9\u9B54\u6CD5\u9632\u5FA1\u6301\u7EED7\u79D2"
+  buffAmount: 20
+  buffDuration: 7
+  buffType: 6

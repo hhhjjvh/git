@@ -1,0 +1,157 @@
+ID,MenuType,MenuSubType,TextEng,TextCHT,TextCHS,TextJP,TextKR,Remarks
+0,0,0,Game Setting,遊戲設定,游戏设定,,,Game Setting 菜單 - 固定文字 - 菜單標題
+1,0,0,Apply,套用設定,套用设定,,,Game Setting 菜單 - 固定文字 - 選擇
+2,0,0,Revert,重置變更,重置变更,,,Game Setting 菜單 - 固定文字 - 選擇
+3,0,0,Reset,還原預設,还原预设,,,Game Setting 菜單 - 固定文字 - 選擇
+4,0,0,Exit Menu,退出菜單,退出菜单,,,Game Setting 菜單 - 固定文字 - 退出
+5,0,0,Resolution,解像度,解像度,,,Game Setting 菜單 - 固定文字 - 畫面
+6,0,0,Full Screen,全屏幕,全屏幕,,,Game Setting 菜單 - 固定文字 - 畫面
+7,0,0,Frame Rate,幀速率,帧速率,,,Game Setting 菜單 - 固定文字 - 畫面
+8,0,0,Vsync,垂直同步,垂直同步,,,Game Setting 菜單 - 固定文字 - 畫面
+9,0,0,BGM Volume,背景音量,背景音量,,,Game Setting 菜單 - 固定文字 - 音量
+10,0,0,SFX Volume,音效音量,音效音量,,,Game Setting 菜單 - 固定文字 - 音量
+11,0,0,Voice Volume,語音音量,语音音量,,,Game Setting 菜單 - 固定文字 - 音量
+12,0,0,Text Language,文本語言,文本语言,,,Game Setting 菜單 - 固定文字 - 語言
+13,0,0,Voice Language,語音語言,语音语言,,,Game Setting 菜單 - 固定文字 - 語言
+14,0,0,Text Playback Speed,文本播放速度,文本播放速度,,,Game Setting 菜單 - 固定文字 - 語言
+15,0,1,< Controller Type >,< 控制器類型 >,< 控制器类型 >,,,Game Setting 菜單 - 固定文字 - 控制器
+16,0,,,,,,,
+17,0,,,,,,,
+18,0,,,,,,,
+19,0,,,,,,,
+20,0,0,3840 x 2160,3840 x 2160,3840 x 2160,3840 x 2160,3840 x 2160,Game Setting 菜單 - 選擇文字 - 解像度 [0]
+21,0,0,2560 x 1440,2560 x 1440,2560 x 1440,2560 x 1440,2560 x 1440,Game Setting 菜單 - 選擇文字 - 解像度 [1]
+22,0,0,1920 x 1080,1920 x 1080,1920 x 1080,1920 x 1080,1920 x 1080,Game Setting 菜單 - 選擇文字 - 解像度 [2]
+23,0,0,1280 x 720,1280 x 720,1280 x 720,1280 x 720,1280 x 720,Game Setting 菜單 - 選擇文字 - 解像度 [3]
+24,0,,,,,,,
+25,0,0,Full Screen,全屏顯示,全屏显示,,,Game Setting 菜單 - 選擇文字 - 全屏幕 [0]
+26,0,0,Windowed,視窗化,窗口化,,,Game Setting 菜單 - 選擇文字 - 全屏幕 [1]
+27,0,0,Borderless,無邊框視窗,无边框窗口,,,Game Setting 菜單 - 選擇文字 - 全屏幕 [2]
+28,0,,,,,,,
+29,0,,,,,,,
+30,0,0,FPS 60,FPS 60,FPS 60,,,Game Setting 菜單 - 選擇文字 - 幀速率 [0]
+31,0,0,FPS 50,FPS 50,FPS 50,,,Game Setting 菜單 - 選擇文字 - 幀速率 [1]
+32,0,0,FPS 30,FPS 30,FPS 30,,,Game Setting 菜單 - 選擇文字 - 幀速率 [2]
+33,0,,,,,,,
+34,0,,,,,,,
+35,0,0,OFF,關閉,关闭,,,Game Setting 菜單 - 選擇文字 - 垂直同步 [0]
+36,0,0,Every V,每行刷新,每行刷新,,,Game Setting 菜單 - 選擇文字 - 垂直同步 [1]
+37,0,0,Every 2V,每兩行刷新,每两行刷新,,,Game Setting 菜單 - 選擇文字 - 垂直同步 [2]
+38,0,,,,,,,
+39,0,,,,,,,
+40,0,0,100%,100%,100%,,,Game Setting 菜單 - 選擇文字 - 音量 [0]
+41,0,0,90%,90%,90%,,,Game Setting 菜單 - 選擇文字 - 音量 [1]
+42,0,0,80%,80%,80%,,,Game Setting 菜單 - 選擇文字 - 音量 [2]
+43,0,0,70%,70%,70%,,,Game Setting 菜單 - 選擇文字 - 音量 [3]
+44,0,0,60%,60%,60%,,,Game Setting 菜單 - 選擇文字 - 音量 [4]
+45,0,0,50%,50%,50%,,,Game Setting 菜單 - 選擇文字 - 音量 [5]
+46,0,0,40%,40%,40%,,,Game Setting 菜單 - 選擇文字 - 音量 [6]
+47,0,0,30%,30%,30%,,,Game Setting 菜單 - 選擇文字 - 音量 [7]
+48,0,0,20%,20%,20%,,,Game Setting 菜單 - 選擇文字 - 音量 [8]
+49,0,0,10%,10%,10%,,,Game Setting 菜單 - 選擇文字 - 音量 [9]
+50,0,0,Mute,靜音,静音,,,Game Setting 菜單 - 選擇文字 - 音量 [10]
+51,0,,,,,,,
+52,0,,,,,,,
+53,0,,,,,,,
+54,0,,,,,,,
+55,0,0,English,English,English,English,English,Game Setting 菜單 - 選擇文字 - 文本語言 [0]
+56,0,0,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文,Game Setting 菜單 - 選擇文字 - 文本語言 [1]
+57,0,0,简体中文,简体中文,简体中文,简体中文,简体中文,Game Setting 菜單 - 選擇文字 - 文本語言 [2]
+58,0,0,日本語,日本語,日本語,日本語,日本語,Game Setting 菜單 - 選擇文字 - 文本語言 [3]
+59,0,0,???,???,???,???,???,Game Setting 菜單 - 選擇文字 - 文本語言 [4]
+60,0,,,,,,,
+61,0,,,,,,,
+62,0,,,,,,,
+63,0,,,,,,,
+64,0,,,,,,,
+65,0,0,English,English,English,English,English,Game Setting 菜單 - 選擇文字 - 語音語言 [0]
+66,0,0,中文 (普通話),中文 (普通話),中文 (普通話),中文 (普通話),中文 (普通話),Game Setting 菜單 - 選擇文字 - 語音語言 [1]
+67,0,0,中文 (普通話),中文 (普通話),中文 (普通話),中文 (普通話),中文 (普通話),Game Setting 菜單 - 選擇文字 - 語音語言 [2]
+68,0,0,日本語,日本語,日本語,日本語,日本語,Game Setting 菜單 - 選擇文字 - 語音語言 [3]
+69,0,0,???,???,???,???,???,Game Setting 菜單 - 選擇文字 - 語音語言 [4]
+70,0,,,,,,,
+71,0,,,,,,,
+72,0,,,,,,,
+73,0,,,,,,,
+74,0,,,,,,,
+75,0,0,Normal (+0%),正常 (+0%),正常 (+0%),,,Game Setting 菜單 - 選擇文字 - 文本播放速度 [0]
+76,0,0,Faster (+15%),稍快 (+15%),稍快 (+15%),,,Game Setting 菜單 - 選擇文字 - 文本播放速度 [1]
+77,0,0,Speed Up (+30%),加速 (+30%),加速 (+30%),,,Game Setting 菜單 - 選擇文字 - 文本播放速度 [2]
+78,0,0,High Speed (+45%),高速 (+45%),高速 (+45%),,,Game Setting 菜單 - 選擇文字 - 文本播放速度 [3]
+79,0,0,Highest (+60%),最高 (+60%),最高 (+60%),,,Game Setting 菜單 - 選擇文字 - 文本播放速度 [4]
+80,0,,,,,,,
+81,0,,,,,,,
+82,0,,,,,,,
+83,0,,,,,,,
+84,0,,,,,,,
+85,0,1,Xbox Game Controller,Xbox 遊戲控制器,Xbox 游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [0]
+86,0,1,PS3 / PC Game Controller,PS3 / PC 遊戲控制器,PS3 / PC 游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [1]
+87,0,1,PS4 Game Controller,PS4 遊戲控制器,PS4 游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [2]
+88,0,1,PS5 Game Controller,PS5 遊戲控制器,PS5 游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [3]
+89,0,1,Switch Pro Controller,NS Pro 遊戲控制器,NS Pro 游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [4]
+90,0,1,No Game Controller,未連接遊戲控制器,未连接游戏控制器,,,Game Setting 菜單 - 選擇文字 - 控制器 [5]
+91,0,,,,,,,
+92,0,,,,,,,
+93,0,,,,,,,
+94,0,,,,,,,
+95,0,1,Button Change,按鍵變更,按键变更,ボタン変更,,Game Setting 菜單 - 按鍵變更 - 控制器 [X]
+96,0,,,,,,,
+97,0,,,,,,,
+98,0,,,,,,,
+99,0,,,,,,,
+100,0,2,Move (Up),移動 (上),移动 (上),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [0]
+101,0,2,Move (Down),移動 (下),移动 (下),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [1]
+102,0,2,Move (Left),移動 (左),移动 (左),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [2]
+103,0,2,Move (Right),移動 (右),移动 (右),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [3]
+104,0,2,Camera (Up),鏡頭 (上),镜头 (上),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [4]
+105,0,2,Camera (Down),鏡頭 (下),镜头 (下),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [5]
+106,0,2,Camera (Left),鏡頭 (左),镜头 (左),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [6]
+107,0,2,Camera (Right),鏡頭 (右),镜头 (右),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [7]
+108,0,2,Start Menu,主菜單,主菜单,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [8]
+109,0,2,Map View,地圖,地图,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [9]
+110,0,2,Jump,跳躍,跳跃,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [10]
+111,0,2,Sprint,閃避,闪避,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [11]
+112,0,2,Attack (Right),攻擊 (右),攻击 (右),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [12]
+113,0,2,Attack (Left),攻擊 (左),攻击 (左),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [13]
+114,0,2,Attack (Second),攻擊 (副),攻击 (副),,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [14]
+115,0,2,OC Skill A,職業技能 A,职业技能 A,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [15]
+116,0,2,OC Skill B,職業技能 B,职业技能 B,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [16]
+117,0,2,Skill,技能,技能,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [17]
+118,0,2,Magic,魔法,魔法,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [18]
+119,0,2,Avatar,化身,化身,,,Game Setting 菜單 - 按鍵變更 - 按鍵功能 [19]
+120,0,,,,,,,
+121,0,,,,,,,
+122,0,2,Game controller not detected !,未檢測到遊戲控制器 !,未检测到游戏控制器 !,,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [未檢測到控制器]
+123,0,2,Game controller : The direction keys cannot be changed and some functions can only be changed in Reverse,遊戲控制器 : 方向鍵不能更改，部分功能只能以反轉的方式更改 !,游戏控制器 : 箭头键不能更改，部分功能只能以反转的方式更改 !,,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [控制器已連接]
+124,0,2,[ Please enter the key on the Keyboard ],[ 請在鍵盤上輸入按鍵 ],[ 请在键盘上输入按键 ],,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [鍵盤輸入]
+125,0,2,[ Please enter the key on the Game Controller ],[ 請在遊戲控制器上輸入按鍵 ],[ 请在游戏控制器上输入按键 ],,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [控制器輸入]
+126,0,2,,,,,,
+127,0,2,,,,,,
+128,0,2,,,,,,
+129,0,2,,,,,,
+130,0,2,Tips : If the same button exists. It will not be saved,提示 : 若存在相同的按鍵時將不會被保存,提示 : 若存在相同的按键时将不会被保存,,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [相同按鍵 - 提示]
+131,0,2,Warning: The same key has been detected. Please make the necessary changes as soon as possible.,警告 : 檢測到存在相同的按鍵，請盡快修改。,警告 : 检测到存在相同的按键，请尽快修改。,,,Game Setting 菜單 - 按鍵變更 - 控制器更改提示 [相同按鍵 - 警告]
+132,0,,,,,,,
+133,0,,,,,,,
+134,0,,,,,,,
+135,0,0,Cursor move,光標移動,光标移动,,,Game Setting 菜單 - 按鍵提示 1
+136,0,0,Cursor move+ / Scale,光標移動+ / 縮放,光标移动+ / 缩放,,,Game Setting 菜單 - 按鍵提示 2
+137,0,0,Confirm,確定,确定,,,Game Setting 菜單 - 按鍵提示 3
+138,0,0,Cancel / Back,取消 / 退回,取消 / 退回,,,Game Setting 菜單 - 按鍵提示 4
+139,0,0,Select,選取,选取,,,Game Setting 菜單 - 按鍵提示 5
+140,0,0,View changes,列表變更,列表变更,,,Game Setting 菜單 - 按鍵提示 6
+141,0,,,,,,,
+142,0,,,,,,,
+143,0,,,,,,,
+144,0,,,,,,,
+145,0,,,,,,,
+146,0,,,,,,,
+147,0,,,,,,,
+148,0,,,,,,,
+149,0,,,,,,,
+150,90,0,Choose / C. History,選擇 / 查看對話紀錄,选择 / 查看对话纪录,,,Dialogue  - 按鍵提示 1
+151,90,0,Confirm / Next,確定 / 文本播放,确定 / 文本播放,,,Dialogue  - 按鍵提示 2
+152,90,0,Quick play,文本快速播放,文本快速播放,,,Dialogue  - 按鍵提示 3
+153,90,0,(Long press) Skip,(長按) 跳過,(长按) 跳过,,,Dialogue  - 按鍵提示 4
+154,90,0,Skip,跳過,跳过,,,Dialogue  - 按鍵提示 長按跳過
+155,0,,,,,,,

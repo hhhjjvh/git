@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scense
+  m_EditorClassIdentifier: 
+  m_GroupName: Scense
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8f3bdf47269b7eb41a76d349978fb9ea
+  m_SerializeEntries:
+  - m_GUID: 2d86be1ce79cf884a811e1ec48111054
+    m_Address: MainScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ccd114b94edf7542915343042b838ce
+    m_Address: FristScence
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d3c5270b1b006b47b4bdedf9631e327
+    m_Address: Cavern1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0fc159190672d948a78c95857462b0b
+    m_Address: Forest1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c76236b8ff1f05419ac92f2d5f35671
+    m_Address: Game1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cda990e2423bbf4892e6590ba056729
+    m_Address: Game2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a591988a8f8e3346bc9d764d580d451
+    m_Address: Game3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c75e25c4b1c40843b208427d2732666
+    m_Address: WUXIANG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 33794c3eb4e7acf4bafd0d56642ea739, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ebfc19b9bc964a148a2f190b05a958bf, type: 2}
+    - {fileID: 11400000, guid: ff66f2e5eb62a0143929d41c7614b53e, type: 2}

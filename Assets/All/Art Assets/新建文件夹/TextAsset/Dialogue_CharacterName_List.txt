@@ -1,0 +1,5 @@
+CharacterID,CharacterInfluence,Name_ENG,Name_CHT,Name_CHS,Name_JP,Name_KR,Remark
+0,0,Alice,愛麗絲,爱丽斯,アリス,???,
+1,,,,,,,
+2,,,,,,,
+3,,,,,,,

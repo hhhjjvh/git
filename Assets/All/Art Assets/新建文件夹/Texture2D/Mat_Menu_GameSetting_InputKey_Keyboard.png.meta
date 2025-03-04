@@ -1,0 +1,2034 @@
+fileFormatVersion: 2
+guid: 629b9d08e760e4c4299fbae72f0ac550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 595097073221877158
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_0
+  - first:
+      213: 4038367573839493069
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_1
+  - first:
+      213: 7274695658558748963
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_2
+  - first:
+      213: 1631777242060930618
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_3
+  - first:
+      213: 7075246548819058492
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_4
+  - first:
+      213: 1050061077082978364
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_5
+  - first:
+      213: -7914530848159531922
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_6
+  - first:
+      213: 1053585223700440438
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_7
+  - first:
+      213: -4541561494735312917
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_8
+  - first:
+      213: -7318906731970401724
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_9
+  - first:
+      213: 4963474302220048342
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_10
+  - first:
+      213: 5523278355713513997
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_11
+  - first:
+      213: 4279089642763476907
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_12
+  - first:
+      213: 2138068173516710323
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_13
+  - first:
+      213: 9093383883217366842
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_14
+  - first:
+      213: -922585602696835212
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_15
+  - first:
+      213: -2566555842085823504
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_16
+  - first:
+      213: -4983669214957937923
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_17
+  - first:
+      213: 652111716527694725
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_18
+  - first:
+      213: 7495871990773046875
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_19
+  - first:
+      213: -4330755091844595395
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_20
+  - first:
+      213: -5962616596409575163
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_21
+  - first:
+      213: 4234485118958766698
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_22
+  - first:
+      213: 2578700816490115697
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_23
+  - first:
+      213: -4809708930920104819
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_24
+  - first:
+      213: 3161372429393396766
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_25
+  - first:
+      213: -8353374003725120736
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_26
+  - first:
+      213: 5993232629588249950
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_27
+  - first:
+      213: -2215054152070634809
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_28
+  - first:
+      213: -4065196380959401206
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_29
+  - first:
+      213: 3186298206731973996
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_30
+  - first:
+      213: -2867443966539661741
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_31
+  - first:
+      213: 8227106282523989689
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_32
+  - first:
+      213: -6797143531043394770
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_33
+  - first:
+      213: 3968311309569626384
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_34
+  - first:
+      213: -8265009830844808727
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_35
+  - first:
+      213: 1147954829142049927
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_36
+  - first:
+      213: 821227962453554058
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_37
+  - first:
+      213: 1147943583124178338
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_38
+  - first:
+      213: 8598289919415566698
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_39
+  - first:
+      213: -2420836452276182148
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_40
+  - first:
+      213: -3813304858925181279
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_41
+  - first:
+      213: 1808458397633834345
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_42
+  - first:
+      213: 8346629896812843263
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_43
+  - first:
+      213: 7089993884507296555
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_44
+  - first:
+      213: -3533943832609353189
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_45
+  - first:
+      213: -2833840390100315949
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_46
+  - first:
+      213: 3162420062504723368
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_47
+  - first:
+      213: -6176164669724008817
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_48
+  - first:
+      213: 7699013700111679951
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_49
+  - first:
+      213: -7276482675574058715
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_50
+  - first:
+      213: 4381328256991406071
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_51
+  - first:
+      213: -4662594517161068925
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_52
+  - first:
+      213: -1410022489731690388
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_53
+  - first:
+      213: 5210042306843187769
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_54
+  - first:
+      213: -6155833783796774327
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_55
+  - first:
+      213: 1482287281644915418
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_56
+  - first:
+      213: -4100134476064236037
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_57
+  - first:
+      213: 3824574331054339538
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_58
+  - first:
+      213: 3167702571285831914
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_59
+  - first:
+      213: 3684929566936417391
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_60
+  - first:
+      213: -3913574232043290493
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_61
+  - first:
+      213: 7523497701728817378
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_62
+  - first:
+      213: 1441855229737730567
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_63
+  - first:
+      213: 217849061700990794
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_64
+  - first:
+      213: -6270449971717184495
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_65
+  - first:
+      213: 6645638589644187136
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_66
+  - first:
+      213: -6345210782219466189
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_67
+  - first:
+      213: -1415328237950985634
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_68
+  - first:
+      213: -2198784231320074151
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_69
+  - first:
+      213: 6626134685868564451
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_70
+  - first:
+      213: 799011006127491993
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_71
+  - first:
+      213: -878079784838987614
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_72
+  - first:
+      213: -4394722191036333876
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_73
+  - first:
+      213: 1228453101703613723
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_74
+  - first:
+      213: 7820596392757795324
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_75
+  - first:
+      213: 3328064048315604632
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_76
+  - first:
+      213: -5881513690735287433
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_77
+  - first:
+      213: -7980439137210434063
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_78
+  - first:
+      213: -7298911956580150698
+    second: Mat_Menu_GameSetting_InputKey_Keyboard_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb34892a5324800800000000000000
+      internalID: 595097073221877158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b82789e92b0830800000000000000
+      internalID: 4038367573839493069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32978719829e4f460800000000000000
+      internalID: 7274695658558748963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ebb9191cc35a610800000000000000
+      internalID: 1631777242060930618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 945
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1ba8ff33503260800000000000000
+      internalID: 7075246548819058492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 866
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bef37cf0929e00800000000000000
+      internalID: 1050061077082978364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c74976020f92290800000000000000
+      internalID: -7914530848159531922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e347cd261f9e00800000000000000
+      internalID: 1053585223700440438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a5bcf1e129f0c0800000000000000
+      internalID: -4541561494735312917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a60b0ca150e6a90800000000000000
+      internalID: -7318906731970401724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71b9b849dc1e440800000000000000
+      internalID: 4963474302220048342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a58e3a660a6ac40800000000000000
+      internalID: 5523278355713513997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_12
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 945
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf58f6cb51626b30800000000000000
+      internalID: 4279089642763476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 866
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b128040da1fbad10800000000000000
+      internalID: 2138068173516710323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fee658670323e70800000000000000
+      internalID: 9093383883217366842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 866
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f8d5c48415233f0800000000000000
+      internalID: -922585602696835212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb55405f03c16cd0800000000000000
+      internalID: -2566555842085823504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad16ce04376dab0800000000000000
+      internalID: -4983669214957937923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e081b624cc0900800000000000000
+      internalID: 652111716527694725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 708
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed3db5cdfa60860800000000000000
+      internalID: 7495871990773046875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 787
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318365703116e3c0800000000000000
+      internalID: -4330755091844595395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509982ffbc7804da0800000000000000
+      internalID: -5962616596409575163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a073ac7c9e3ca30800000000000000
+      internalID: 4234485118958766698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17237e4eab269c320800000000000000
+      internalID: 2578700816490115697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_24
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 787
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cbb73d53b704db0800000000000000
+      internalID: -4809708930920104819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 787
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405b099737fdb20800000000000000
+      internalID: 3161372429393396766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b4bf70a9ad21c80800000000000000
+      internalID: -8353374003725120736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d43e6b25d3c2350800000000000000
+      internalID: 5993232629588249950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2639b0cfb8241e0800000000000000
+      internalID: -2215054152070634809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 551
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b16ba0e658597c0800000000000000
+      internalID: -4065196380959401206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 630
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6539b85651083c20800000000000000
+      internalID: 3186298206731973996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 551
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ef011a7eac438d0800000000000000
+      internalID: -2867443966539661741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b61a3b239d8c2270800000000000000
+      internalID: 8227106282523989689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 551
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b60d8a8f1bba1a0800000000000000
+      internalID: -6797143531043394770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011101d6c16421730800000000000000
+      internalID: 3968311309569626384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e142674959cc4d80800000000000000
+      internalID: -8265009830844808727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 630
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784c431c5da5eef00800000000000000
+      internalID: 1147954829142049927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 630
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8379a51b76956b00800000000000000
+      internalID: 821227962453554058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54e465b905eef00800000000000000
+      internalID: 1147943583124178338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6146924023435770800000000000000
+      internalID: 8598289919415566698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e2c2a216776ed0800000000000000
+      internalID: -2420836452276182148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 393
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a65e7f3f6b641bc0800000000000000
+      internalID: -3813304858925181279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 472
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d690eb45fe81910800000000000000
+      internalID: 1808458397633834345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 393
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff05f273baf25d370800000000000000
+      internalID: 8346629896812843263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23dfb1afd7b46260800000000000000
+      internalID: 7089993884507296555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121321dec8e4fec0800000000000000
+      internalID: -3533943832609353189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 394
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09ae5fd2d2ca8d0800000000000000
+      internalID: -2833840390100315949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_47
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a928aa4c23eb20800000000000000
+      internalID: 3162420062504723368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 394
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e58c2a4fad94aa0800000000000000
+      internalID: -6176164669724008817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_49
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 472
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1c50c4b2468da60800000000000000
+      internalID: 7699013700111679951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_50
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 394
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521df1c1f8db40b90800000000000000
+      internalID: -7276482675574058715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_51
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 472
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7aa5226da9dcc30800000000000000
+      internalID: 4381328256991406071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_52
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 394
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3863ee87df22b4fb0800000000000000
+      internalID: -4662594517161068925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601b3624089e6ce0800000000000000
+      internalID: -1410022489731690388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a1524cfd9cd4840800000000000000
+      internalID: 5210042306843187769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac174e9c5129aa0800000000000000
+      internalID: -6155833783796774327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 236
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada468ddd64229410800000000000000
+      internalID: 1482287281644915418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 314
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfddbdeda656917c0800000000000000
+      internalID: -4100134476064236037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 236
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53293371e931530800000000000000
+      internalID: 3824574331054339538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0659394b0f5fb20800000000000000
+      internalID: 3167702571285831914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f644493eaef732330800000000000000
+      internalID: 3684929566936417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38000f098f030b9c0800000000000000
+      internalID: -3913574232043290493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0930c6c45d86860800000000000000
+      internalID: 7523497701728817378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_63
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 314
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7028e0231bf720410800000000000000
+      internalID: 1441855229737730567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_64
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 314
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f6514194f50300800000000000000
+      internalID: 217849061700990794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11460f519f2eaf8a0800000000000000
+      internalID: -6270449971717184495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ae51561d0a3c50800000000000000
+      internalID: 6645638589644187136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a84d4796841f7a0800000000000000
+      internalID: -6345210782219466189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_68
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 78
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1a50677ebb5ce0800000000000000
+      internalID: -1415328237950985634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 157
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958cf6a24695c71e0800000000000000
+      internalID: -2198784231320074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef1719d362c4fb50800000000000000
+      internalID: 6626134685868564451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b4bd7d648a61b00800000000000000
+      internalID: 799011006127491993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 78
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08834861f60d3f0800000000000000
+      internalID: -878079784838987614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c0c4937fc203c0800000000000000
+      internalID: -4394722191036333876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 78
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d454e56975c0110800000000000000
+      internalID: 1228453101703613723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_75
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf99702ebf6588c60800000000000000
+      internalID: 7820596392757795324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_76
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 157
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e999d7e98af2e20800000000000000
+      internalID: 3328064048315604632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 157
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773602ab57aa06ea0800000000000000
+      internalID: -5881513690735287433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd72fa03e8cf3190800000000000000
+      internalID: -7980439137210434063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_Keyboard_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652503d2f3e05ba90800000000000000
+      internalID: -7298911956580150698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

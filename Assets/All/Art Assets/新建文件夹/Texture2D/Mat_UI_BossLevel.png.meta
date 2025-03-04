@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 562947e5a09cb4b45bd01ba3c90a7656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1134722204710866159
+    second: Mat_UI_BossLevel_0
+  - first:
+      213: 8336336946963605054
+    second: Mat_UI_BossLevel_1
+  - first:
+      213: 1602013969116926211
+    second: Mat_UI_BossLevel_2
+  - first:
+      213: 6295321463978566023
+    second: Mat_UI_BossLevel_3
+  - first:
+      213: -5220604586957281131
+    second: Mat_UI_BossLevel_4
+  - first:
+      213: -7908622361052833707
+    second: Mat_UI_BossLevel_5
+  - first:
+      213: 8971134927036140832
+    second: Mat_UI_BossLevel_6
+  - first:
+      213: 4069666942261838097
+    second: Mat_UI_BossLevel_7
+  - first:
+      213: -4592864169418072319
+    second: Mat_UI_BossLevel_8
+  - first:
+      213: -2862068881796919797
+    second: Mat_UI_BossLevel_9
+  - first:
+      213: 2308436198708253205
+    second: Mat_UI_BossLevel_10
+  - first:
+      213: 7340780924834455791
+    second: Mat_UI_BossLevel_11
+  - first:
+      213: 8228704774924623062
+    second: Mat_UI_BossLevel_12
+  - first:
+      213: -4332421317530292306
+    second: Mat_UI_BossLevel_13
+  - first:
+      213: -3719305187970991386
+    second: Mat_UI_BossLevel_14
+  - first:
+      213: -2207548144194984746
+    second: Mat_UI_BossLevel_15
+  - first:
+      213: -2802508902516876590
+    second: Mat_UI_BossLevel_16
+  - first:
+      213: -6042795247508798367
+    second: Mat_UI_BossLevel_17
+  - first:
+      213: 6828090558331971469
+    second: Mat_UI_BossLevel_18
+  - first:
+      213: -7934576726554342609
+    second: Mat_UI_BossLevel_19
+  - first:
+      213: -7006646804819296725
+    second: Mat_UI_BossLevel_20
+  - first:
+      213: 6201642933435792702
+    second: Mat_UI_BossLevel_21
+  - first:
+      213: -6054596619643434146
+    second: Mat_UI_BossLevel_22
+  - first:
+      213: -3756361210113544853
+    second: Mat_UI_BossLevel_23
+  - first:
+      213: 101996247188548398
+    second: Mat_UI_BossLevel_24
+  - first:
+      213: 5786428864275242876
+    second: Mat_UI_BossLevel_25
+  - first:
+      213: -1550865023546949139
+    second: Mat_UI_BossLevel_26
+  - first:
+      213: -6202011056485890847
+    second: Mat_UI_BossLevel_27
+  - first:
+      213: -9038314270033463740
+    second: Mat_UI_BossLevel_28
+  - first:
+      213: -4707939181967638645
+    second: Mat_UI_BossLevel_29
+  - first:
+      213: -7239798913174351561
+    second: Mat_UI_BossLevel_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1559
+        width: 174
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f575ba28a040f0800000000000000
+      internalID: -1134722204710866159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1552
+        width: 204
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36eab3194e90b370800000000000000
+      internalID: 8336336946963605054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1545
+        width: 216
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019d62973f7b3610800000000000000
+      internalID: 1602013969116926211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1535
+        width: 235
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a55774897d5750800000000000000
+      internalID: 6295321463978566023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1297
+        width: 155
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e2a1c9cfac87b0800000000000000
+      internalID: -5220604586957281131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1276
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581cb24dddee3290800000000000000
+      internalID: -7908622361052833707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1278
+        width: 172
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dc61e5fafdf7c70800000000000000
+      internalID: 8971134927036140832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1279
+        width: 250
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111caaf958c5a7830800000000000000
+      internalID: 4069666942261838097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1055
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f57383f5ed240c0800000000000000
+      internalID: -4592864169418072319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1040
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8bc11483e748d0800000000000000
+      internalID: -2862068881796919797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1025
+        width: 223
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51298aafd76390020800000000000000
+      internalID: 2308436198708253205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1026
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0a8b6ab51bfd560800000000000000
+      internalID: 7340780924834455791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 792
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc51fe256b323270800000000000000
+      internalID: 8228704774924623062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 776
+        width: 218
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafe64f04c520e3c0800000000000000
+      internalID: -4332421317530292306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 771
+        width: 237
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eab8b323af526cc0800000000000000
+      internalID: -3719305187970991386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 774
+        width: 255
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d46fa0b8a63d51e0800000000000000
+      internalID: -2207548144194984746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 757
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9c91600d7b19d0800000000000000
+      internalID: -2802508902516876590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 519
+        width: 225
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c1dd0dbda32ca0800000000000000
+      internalID: -6042795247508798367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 760
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87639f9f2042ce50800000000000000
+      internalID: 6828090558331971469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 514
+        width: 229
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b85a2a188b2e190800000000000000
+      internalID: -7934576726554342609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 762
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ebe149ad363ce90800000000000000
+      internalID: -7006646804819296725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 509
+        width: 243
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7047e369a01650800000000000000
+      internalID: 6201642933435792702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 523
+        width: 218
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b4fdbf370c9fba0800000000000000
+      internalID: -6054596619643434146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 284
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d2027a169bedbc0800000000000000
+      internalID: -3756361210113544853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 265
+        width: 195
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba812eb0d5a6100800000000000000
+      internalID: 101996247188548398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 272
+        width: 240
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f513de4668d4050800000000000000
+      internalID: 5786428864275242876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 260
+        width: 250
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de108e85a783a7ae0800000000000000
+      internalID: -1550865023546949139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e40d15cdc70ee9a0800000000000000
+      internalID: -6202011056485890847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446bf46fe05719280800000000000000
+      internalID: -9038314270033463740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2
+        width: 234
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ffcaaf14a0aaeb0800000000000000
+      internalID: -4707939181967638645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_UI_BossLevel_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2
+        width: 250
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731dbfe1f31178b90800000000000000
+      internalID: -7239798913174351561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

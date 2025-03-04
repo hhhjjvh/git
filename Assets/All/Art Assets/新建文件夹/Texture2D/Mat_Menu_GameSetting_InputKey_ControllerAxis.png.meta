@@ -1,0 +1,1890 @@
+fileFormatVersion: 2
+guid: d8d949adcb84ddb4ab4d063f37890c63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5098634126378658638
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_0
+  - first:
+      213: -2480934702146031225
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_1
+  - first:
+      213: -4669957959255601031
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_2
+  - first:
+      213: 7943866637382994123
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_3
+  - first:
+      213: -3553721154557361990
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_4
+  - first:
+      213: -2718811842464223277
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_5
+  - first:
+      213: -6811884419130255467
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_6
+  - first:
+      213: -3640882941638456498
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_7
+  - first:
+      213: -2046100818006871806
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_8
+  - first:
+      213: 8245973054008027716
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_9
+  - first:
+      213: 247284237603744415
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_10
+  - first:
+      213: -7745505368406533285
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_11
+  - first:
+      213: -8038143564876486665
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_12
+  - first:
+      213: -3221768308334878041
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_13
+  - first:
+      213: 8212270708001867786
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_14
+  - first:
+      213: -2833882725238856853
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_15
+  - first:
+      213: 848068933620407314
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_16
+  - first:
+      213: -6978299183248536076
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_17
+  - first:
+      213: 8915973330432677230
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_18
+  - first:
+      213: 8853548215217662756
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_19
+  - first:
+      213: -5266986705262633109
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_20
+  - first:
+      213: -6758560533390620969
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_21
+  - first:
+      213: 5825921551129846164
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_22
+  - first:
+      213: -2647746855962526575
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_23
+  - first:
+      213: 2913069479473584238
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_24
+  - first:
+      213: 3905952088616003852
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_25
+  - first:
+      213: 5063057287696430049
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_26
+  - first:
+      213: 4654813700895407827
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_27
+  - first:
+      213: -8113137745649594986
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_28
+  - first:
+      213: 6489243600900680079
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_29
+  - first:
+      213: 3607782114283481320
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_30
+  - first:
+      213: -9030845476970103963
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_31
+  - first:
+      213: 3299095410280967181
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_32
+  - first:
+      213: -2693291114158040745
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_33
+  - first:
+      213: 8843942693059969949
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_34
+  - first:
+      213: -8314116661623759170
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_35
+  - first:
+      213: 1193214400866405440
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_36
+  - first:
+      213: -5147541707023847888
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_37
+  - first:
+      213: 2967763536333233702
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_38
+  - first:
+      213: 1598988000075236181
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_39
+  - first:
+      213: 4294944833185156786
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_40
+  - first:
+      213: 3515716831322210016
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_41
+  - first:
+      213: 6950635104048415740
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_42
+  - first:
+      213: -6880488067291477871
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_43
+  - first:
+      213: 5793894169735977605
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_44
+  - first:
+      213: 7026951137815615869
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_45
+  - first:
+      213: 6616737313826798321
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_46
+  - first:
+      213: -6699352002848594361
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_47
+  - first:
+      213: 1119353344520124897
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_48
+  - first:
+      213: -8925567236763357565
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_49
+  - first:
+      213: -5857326273212130326
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_50
+  - first:
+      213: 2790033659034250
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_51
+  - first:
+      213: 2604416733014366152
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_52
+  - first:
+      213: -4175338320962977910
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_53
+  - first:
+      213: -2632135541955257905
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_54
+  - first:
+      213: 7214445847756610387
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_55
+  - first:
+      213: -303902359247322578
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_56
+  - first:
+      213: -5099983174382620623
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_57
+  - first:
+      213: 5708260528465098060
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_58
+  - first:
+      213: 5711434845255951706
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_59
+  - first:
+      213: 5441851100576061903
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_60
+  - first:
+      213: 6463852436509774586
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_61
+  - first:
+      213: -7564929595134716162
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_62
+  - first:
+      213: 2820188211050193660
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_63
+  - first:
+      213: -4429577933503510312
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_64
+  - first:
+      213: 5162352529680252118
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_65
+  - first:
+      213: 6839346377136118012
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_66
+  - first:
+      213: 7772223070574168012
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_67
+  - first:
+      213: 6421008788084811807
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_68
+  - first:
+      213: 1055603122088431704
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_69
+  - first:
+      213: -1099039306309244794
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_70
+  - first:
+      213: -6230433913479905440
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_71
+  - first:
+      213: -6400682688326014710
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_72
+  - first:
+      213: 2592921500042798190
+    second: Mat_Menu_GameSetting_InputKey_ControllerAxis_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 602
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4148996430e39b0800000000000000
+      internalID: -5098634126378658638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78175af6803f19dd0800000000000000
+      internalID: -2480934702146031225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970df828af9f03fb0800000000000000
+      internalID: -4669957959255601031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84a484e984e3e60800000000000000
+      internalID: 7943866637382994123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab041d73075aeaec0800000000000000
+      internalID: -3553721154557361990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 602
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6bceb807d44ad0800000000000000
+      internalID: -2718811842464223277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59719b236335771a0800000000000000
+      internalID: -6811884419130255467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 602
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4cda314cf87dc0800000000000000
+      internalID: -3640882941638456498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017010952aca93e0800000000000000
+      internalID: -2046100818006871806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a6797bdc49f6270800000000000000
+      internalID: 8245973054008027716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aace434b78e6300800000000000000
+      internalID: 247284237603744415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5f36a7ef628490800000000000000
+      internalID: -7745505368406533285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 518
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e1f10407c27090800000000000000
+      internalID: -8038143564876486665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 518
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a6111bcaf943d0800000000000000
+      internalID: -3221768308334878041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080ccdc2b8d7f170800000000000000
+      internalID: 8212270708001867786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a50b0da60ca8d0800000000000000
+      internalID: -2833882725238856853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 432
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c1d7da332f4cb00800000000000000
+      internalID: 848068933620407314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd821e8dd9182f90800000000000000
+      internalID: -6978299183248536076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65db435186ebbb70800000000000000
+      internalID: 8915973330432677230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 432
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba7d1913f1eda70800000000000000
+      internalID: 8853548215217662756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9d1c4f77e7e6b0800000000000000
+      internalID: -5266986705262633109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_21
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 432
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60746d005c432a0800000000000000
+      internalID: -6758560533390620969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4912360a8c4d9d050800000000000000
+      internalID: 5825921551129846164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 368
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c323b4340514bd0800000000000000
+      internalID: -2647746855962526575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 344
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e681e0ae14d4d6820800000000000000
+      internalID: 2913069479473584238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 368
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e6afdabab43630800000000000000
+      internalID: 3905952088616003852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 344
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3399627c7934640800000000000000
+      internalID: 5063057287696430049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 368
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3defd711668399040800000000000000
+      internalID: 4654813700895407827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 344
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d0eb0a438586f80800000000000000
+      internalID: -8113137745649594986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 368
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8969ac6cac6e0a50800000000000000
+      internalID: 6489243600900680079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8efd4d7ba611230800000000000000
+      internalID: 3607782114283481320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf0cbd2edfba280800000000000000
+      internalID: -9030845476970103963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 261
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2be9dbcdb8cd20800000000000000
+      internalID: 3299095410280967181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d4e750028f9ad0800000000000000
+      internalID: -2693291114158040745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9340c9a50ffbba70800000000000000
+      internalID: 8843942693059969949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_35
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 261
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe52c242f25e9c80800000000000000
+      internalID: -8314116661623759170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_36
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc588fc262f8010800000000000000
+      internalID: 1193214400866405440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_37
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 261
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee55e17124098b0800000000000000
+      internalID: -5147541707023847888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62edf70663d9f2920800000000000000
+      internalID: 2967763536333233702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 198
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c8904d1fb03610800000000000000
+      internalID: 1598988000075236181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 174
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be86e7f195ba9b30800000000000000
+      internalID: 4294944833185156786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee72ddb4d55ac030800000000000000
+      internalID: 3515716831322210016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 174
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38a241dcd957060800000000000000
+      internalID: 6950635104048415740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 198
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19807c3ae889380a0800000000000000
+      internalID: -6880488067291477871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 174
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ad15dcc0c086050800000000000000
+      internalID: 5793894169735977605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 198
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d68754deb48160800000000000000
+      internalID: 7026951137815615869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 176
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf7baa78f53db50800000000000000
+      internalID: 6616737313826798321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 215
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74668ec19de1703a0800000000000000
+      internalID: -6699352002848594361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_48
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 176
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9744eafedb88f00800000000000000
+      internalID: 1119353344520124897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 215
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eead943e3022480800000000000000
+      internalID: -8925567236763357565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 87
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd0a7b9c896bea0800000000000000
+      internalID: -5857326273212130326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 85
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a78255589e90000800000000000000
+      internalID: 2790033659034250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 87
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7976a483fb42420800000000000000
+      internalID: 2604416733014366152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 87
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ffce14be73e06c0800000000000000
+      internalID: -4175338320962977910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 87
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc993159ba6c87bd0800000000000000
+      internalID: -2632135541955257905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 85
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b13d6564cde1460800000000000000
+      internalID: 7214445847756610387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_56
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 87
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2209a61a6258cbf0800000000000000
+      internalID: -303902359247322578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_57
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 87
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1307472e2583939b0800000000000000
+      internalID: -5099983174382620623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45bb8cf4b0d73f40800000000000000
+      internalID: 5708260528465098060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_59
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e4453bb7134f40800000000000000
+      internalID: 5711434845255951706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9976a6eb6558b40800000000000000
+      internalID: 5441851100576061903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 28
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af255b64b8734b950800000000000000
+      internalID: 6463852436509774586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 50
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6d72b2d98f30790800000000000000
+      internalID: -7564929595134716162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 28
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf224676c32532720800000000000000
+      internalID: 2820188211050193660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 28
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d84d90a65af682c0800000000000000
+      internalID: -4429577933503510312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3ee0464c54a740800000000000000
+      internalID: 5162352529680252118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 28
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89d092b4d3aee50800000000000000
+      internalID: 6839346377136118012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 28
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74ba424bb7cdb60800000000000000
+      internalID: 7772223070574168012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 50
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e47909710c1950800000000000000
+      internalID: 6421008788084811807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_69
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850dfdb527146ae00800000000000000
+      internalID: 1055603122088431704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 7
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ee39e29d6fb0f0800000000000000
+      internalID: -1099039306309244794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fbb7ead5d0989a0800000000000000
+      internalID: -6230433913479905440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e55ad1053c27a0800000000000000
+      internalID: -6400682688326014710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat_Menu_GameSetting_InputKey_ControllerAxis_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64268ccd58ebf320800000000000000
+      internalID: 2592921500042798190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

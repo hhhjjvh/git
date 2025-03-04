@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Bounds
+  - Point
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Sword
+  - Item
+  - Ladder
+  - OneWayPlatform
+  - Deadly
+  - NPC
+  - EnemyAttack
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1392096863
+    locked: 0
+  - name: Ground
+    uniqueID: 747259063
+    locked: 0
+  - name: Ladder
+    uniqueID: 1706241975
+    locked: 0
+  - name: NPC
+    uniqueID: 629561459
+    locked: 0
+  - name: Enemy
+    uniqueID: 3125851257
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 1651350833
+    locked: 0
+  - name: Item
+    uniqueID: 365142837
+    locked: 0
+  - name: Player
+    uniqueID: 4213267953
+    locked: 0
+  - name: FX
+    uniqueID: 4275789173
+    locked: 0

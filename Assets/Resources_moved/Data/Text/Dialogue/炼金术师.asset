@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605fd6f0effa6f24481dc2eb94d1132f, type: 3}
+  m_Name: "\u70BC\u91D1\u672F\u5E08"
+  m_EditorClassIdentifier: 
+  systemType: 1
+  nodes:
+  - {fileID: 11400000, guid: b050f30364a845c4f88c0aa7780d2cd7, type: 2}
+  - {fileID: 11400000, guid: a7c12a9ab7b75244cb1a276515636b80, type: 2}
+  - {fileID: 11400000, guid: 5f881a52e3964e7448d43127bcd0593f, type: 2}
+  - {fileID: 11400000, guid: 321309fe233bdbb4f907287ac9795230, type: 2}
+  dialogueData: 
+  cachedLines:
+  - "n-\u70BC\u91D1\u672F\u58EB"
+  - "\u6B22\u8FCE\u6765\u5230\u6211\u7684\u70BC\u91D1\u623F\uFF01"
+  - "\u4F60\u9700\u8981\u8D2D\u4E70\u836F\u6C34\uFF0C\u8FD8\u662F\u60F3\u8981\u4EA4\u6362\u4E00\u4E9B\u70BC\u91D1\u6750\u6599\uFF1F"
+  - "n-\u73A9\u5BB6"
+  - "\u6211\u60F3\u77E5\u9053\u4F60\u8FD9\u91CC\u6709\u4EC0\u4E48\u7279\u4EA7\u3002"
+  - "n-\u70BC\u91D1\u672F\u58EB"
+  - "\u6211\u4EEC\u6709\u5404\u5F0F\u5404\u6837\u7684\u836F\u6C34\uFF0C\u5305\u62EC\u6CBB\u7597\u836F\u6C34\u548C\u589E\u5F3A\u836F\u6C34\uFF0C\u5F53\u7136\u4E5F\u6709\u4E00\u4E9B\u7A00\u6709\u7684\u6750\u6599\uFF0C\u53EA\u6709\u6700\u52C7\u6562\u7684\u5192\u9669\u8005\u624D\u80FD\u627E\u5230\u3002"
+  - "n-\u73A9\u5BB6"
+  - "\u542C\u8D77\u6765\u5F88\u6709\u8DA3\uFF0C\u6211\u60F3\u8981\u4E70\u4E00\u4E9B\u589E\u5F3A\u836F\u6C34\u3002"
+  - "n-\u70BC\u91D1\u672F\u58EB"
+  - "\u5F88\u597D\uFF0C\u8FD9\u91CC\u6709\u51E0\u74F6\u589E\u5F3A\u836F\u6C34\uFF0C\u6BCF\u74F6100\u91D1\u5E01\uFF0C\u4F60\u8981\u4E70\u51E0\u74F6\uFF1F"
+  - "n-\u73A9\u5BB6"
+  - "\u6211\u4E70\u4E09\u74F6\u3002"
+  - "n-\u70BC\u91D1\u672F\u58EB"
+  - "\u597D\u7684\uFF0C\u4E09\u74F6\u589E\u5F3A\u836F\u6C34\uFF0C300\u91D1\u5E01\u3002\u8C22\u8C22\u4EA4\u6613\uFF0C\u795D\u4F60\u5192\u9669\u987A\u5229\uFF01"
+  - "n-\u73A9\u5BB6"
+  - "\u8C22\u8C22\uFF0C\u70BC\u91D1\u672F\u58EB\uFF01"
+  - "n-\u70BC\u91D1\u672F\u58EB"
+  - "\u518D\u89C1\uFF0C\u8BB0\u5F97\u4E0B\u6B21\u6765\uFF01"
+  events: []
+  hasName: 1

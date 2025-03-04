@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6221622961757455495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4144162583553099752}
+  - component: {fileID: 6319106798294900714}
+  m_Layer: 0
+  m_Name: RoomSet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4144162583553099752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6221622961757455495}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 211.72287, y: 664.453, z: -2.7757003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6319106798294900714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6221622961757455495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f18acbca0f095647b97a6a8e6fb052d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  width: 200
+  height: 20
+  roomWidthMin: 36
+  roomWidthMax: 42
+  roomHeightMin: 20
+  roomHeightMax: 22
+  minRoomCount: 5
+  maxRoomCount: 10
+  groundTilemap: {fileID: 0}
+  wallTilemap: {fileID: 0}
+  spikesTilemap: {fileID: 0}
+  platformTilemap: {fileID: 0}
+  ladderTilemap: {fileID: 0}
+  doorTilemap: {fileID: 0}
+  groundTile: {fileID: 11400000, guid: 9bfa24bd16c26e345adc41bde94776c4, type: 2}
+  wallTile: {fileID: 11400000, guid: 3470ad8feaf15174d95e6b72a81a6ac4, type: 2}
+  spikesTile: {fileID: 11400000, guid: e2d8328b8731a6f44995436fee0c2d51, type: 2}
+  platformTile: {fileID: 11400000, guid: c1da0e0ffdd43bf41825825be214625e, type: 2}
+  ladderTile: {fileID: 11400000, guid: 6b6debf6e401a1f4d8d7178243774c71, type: 2}
+  doorOpenTile: {fileID: 11400000, guid: ab016ef0b226e7847a8694b0a88dd060, type: 2}
+  doorClosedTile: {fileID: 11400000, guid: 1bf056adede088d4e9cef308340fa448, type: 2}
+  seed: 0
+  level: 1
+  enemyPrefab: {fileID: 7739611809782782306, guid: 6fd63c3acb93f0243b0777cb06c3cda3, type: 3}
