@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.InputSystem; // 新增InputSystem命名空间
 
 public class AttackSense : MonoBehaviour
 {
@@ -12,6 +12,11 @@ public class AttackSense : MonoBehaviour
     [Header("Camera Shake Settings")]
     [SerializeField] private AnimationCurve _shakeAttenuation = AnimationCurve.Linear(0, 1, 1, 0); // 震动衰减曲线
     [SerializeField] private float _shakeFrequency = 0.05f;    // 震动更新频率
+
+    [Header("Controller Vibration Settings")]
+    [SerializeField] private AnimationCurve _vibrationAttenuation = AnimationCurve.Linear(0, 1, 1, 0);
+    [SerializeField] private float _maxVibrationIntensity = 0.7f;
+    [SerializeField] private float _vibrationDuration = 0.2f;
 
     private Coroutine _currentPauseRoutine;
     private Vector3 _cameraOriginalPos;
@@ -33,7 +38,7 @@ public class AttackSense : MonoBehaviour
     /// <summary>
     /// 增强版受击暂停效果
     /// </summary>
-    public void HitPause(int durationFrames, bool applyShake = true)
+    public void HitPause(int durationFrames, bool applyShake = true, bool applyVibration = true)
     {
         if (_isPausing && !_allowPauseStacking) return;
 
@@ -42,11 +47,12 @@ public class AttackSense : MonoBehaviour
 
         _currentPauseRoutine = StartCoroutine(PauseRoutine(
             durationFrames / 60f,
-            applyShake ? _pauseShakeStrength*(1+durationFrames/5f): 0f
+            applyShake ? _pauseShakeStrength*(1+durationFrames/5f): 0f,
+            applyVibration 
         ));
     }
 
-    private IEnumerator PauseRoutine(float pauseDuration, float shakeIntensity)
+    private IEnumerator PauseRoutine(float pauseDuration, float shakeIntensity, bool applyVibration)
     {
         // 保存原始时间状态
         var timeManager = TimeManager.Instance;
@@ -61,6 +67,15 @@ public class AttackSense : MonoBehaviour
         // 初始相机震动
         if (shakeIntensity > 0)
             CameraShake(pauseDuration, shakeIntensity);
+        // 触发手柄震动
+        if (applyVibration && Gamepad.current != null)
+        {
+            StartCoroutine(VibrationRoutine(
+                pauseDuration,
+                _maxVibrationIntensity,
+                _vibrationDuration
+            ));
+        }
 
         // 等待指定时间
         yield return new WaitForSecondsRealtime(pauseDuration);
@@ -81,6 +96,41 @@ public class AttackSense : MonoBehaviour
         timeManager.FreezeEntityType(TimeManager.EntityType.Global, wasFrozen);
         timeManager.SetGlobalTimeScale(originalScale, true);
         _isPausing = false;
+    }
+    private IEnumerator VibrationRoutine(float totalDuration, float maxIntensity, float vibrationDuration)
+    {
+        Gamepad gamepad = Gamepad.current;
+        if (gamepad == null) yield break;
+
+        float elapsed = 0f;
+
+        while (elapsed < totalDuration)
+        {
+            float vibrationStrength = maxIntensity *
+                _vibrationAttenuation.Evaluate(elapsed / totalDuration);
+
+            gamepad.SetMotorSpeeds(
+                vibrationStrength,
+                vibrationStrength * 0.8f // 右马达稍弱以增加层次感
+            );
+
+            elapsed += Time.unscaledDeltaTime;
+            yield return null;
+        }
+
+        // 逐渐停止震动
+        float fadeTime = 0.1f;
+        while (fadeTime > 0)
+        {
+            gamepad.SetMotorSpeeds(
+                Mathf.Lerp(0, maxIntensity, fadeTime / 0.1f),
+                Mathf.Lerp(0, maxIntensity * 0.8f, fadeTime / 0.1f)
+            );
+            fadeTime -= Time.unscaledDeltaTime;
+            yield return null;
+        }
+
+        gamepad.ResetHaptics();
     }
 
     /// <summary>
@@ -119,6 +169,11 @@ public class AttackSense : MonoBehaviour
 
     private void OnDisable()
     {
+        // 确保禁用时停止震动
+        if (Gamepad.current != null)
+        {
+            Gamepad.current.ResetHaptics();
+        }
         // 确保退出时恢复状态
         if (_isPausing)
         {

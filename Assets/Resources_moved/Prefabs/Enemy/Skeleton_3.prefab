@@ -389,6 +389,9 @@ MonoBehaviour:
   OneWayPlatformLayer:
     serializedVersion: 2
     m_Bits: 0
+  slopeCheckDistance: 0.5
+  maxSlopeAngle: 85
+  isOnSlope: 0
   canMove: 1
   enemyName: 0
   attackKnockback: {x: 2, y: 2}
@@ -400,7 +403,7 @@ MonoBehaviour:
   StartPosition1: 0
   StartPosition2: 0
   attackDistance: 3.2
-  attackCooldown: 0.4
+  attackCooldown: 0.05
   battleTime: 4
   chaseDistance: 10
 --- !u!1 &3018702062878996485

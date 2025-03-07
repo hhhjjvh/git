@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerGroundedState : PlayerXingDongState
 {
+    private float attackPressTime;
     public PlayerGroundedState(PlayerStateMachine playerStateMachine, player1 player, string animBoolName) : base(playerStateMachine, player, animBoolName)
     {
 
@@ -10,6 +11,7 @@ public class PlayerGroundedState : PlayerXingDongState
     public override void Enter()
     {
         base.Enter();
+     //  attackPressTime = Time.time;
     }
 
     public override void Exit()
@@ -33,11 +35,40 @@ public class PlayerGroundedState : PlayerXingDongState
             stateMachine.ChangeState(player.jumpState);
             InputManager.Instance.canJump = false;
         }
+        // 短按攻击处理（修改原蓄力条件）
+        if (InputManager.Instance.attackButtonDown)
+        {
+            attackPressTime = Time.time;
+        }
+
+        //if (InputManager.Instance.attackButtonUp && !player.isAttack)
+        //{
+        //    InputManager.Instance.attackButtonUp = false;
+        //    float holdDuration = Time.time - attackPressTime;
+        //    Debug.Log("Hold duration: " + holdDuration);
+        //    if (holdDuration < 0.2f) // 短按触发普通攻击
+        //    {
+        //        InputManager.Instance.canAttack = false;
+
+        //        stateMachine.ChangeState(player.primaryAttackState);
+        //    }
+        //    else //if (player.IsGroundedDetected()) // 长按触发蓄力
+        //    {
+        //        Debug.Log("Charge attack");
+        //        stateMachine.ChangeState(player.chargeAttackState);
+        //    }
+        //}
+        //        if (InputManager.Instance.attackButtonHold && player.IsGroundedDetected() && !player.isAttack)
+        //{
+        //            // 按住攻击键进入蓄力状态
+        //            stateMachine.ChangeState(player.chargeAttackState);
+        //            return;
+        //        }
         if ((InputManager.Instance.canAttack) && !player.isAttack)
         {
 
             InputManager.Instance.canAttack = false;
-            stateMachine.ChangeState(player.primaryAttackState);
+            stateMachine.ChangeState(player.preChargeState);
         }
 
         if (InputManager.Instance.canParry)
@@ -80,7 +111,7 @@ public class PlayerGroundedState : PlayerXingDongState
 
             stateMachine.ChangeState(player.climbState);
         }
-        if ((yInput <= -0.8 && player.IsGroundedDetected())||player.IsWallDetected3())
+        if ((yInput <= -0.8 && player.IsGroundedDetected()) || player.IsWallDetected3())
         {
             stateMachine.ChangeState(player.croushState);
         }

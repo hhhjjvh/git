@@ -5253,6 +5253,9 @@ MonoBehaviour:
   OneWayPlatformLayer:
     serializedVersion: 2
     m_Bits: 0
+  slopeCheckDistance: 0.5
+  maxSlopeAngle: 85
+  isOnSlope: 0
   canMove: 1
   enemyName: 0
   attackKnockback: {x: 1, y: 5}
@@ -5263,7 +5266,7 @@ MonoBehaviour:
   playerChackTransform: {fileID: 0}
   StartPosition1: 0
   StartPosition2: 0
-  attackDistance: 2.55
+  attackDistance: 2.5
   attackCooldown: 0.4
   battleTime: 4
   chaseDistance: 10

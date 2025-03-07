@@ -16,7 +16,7 @@ public class ThunderStrikeContorllers : MonoBehaviour
   
     protected virtual void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.GetComponent<Enemy>()!= null)
+        if(collision.GetComponent<Enemy>()!= null&&!collision.GetComponent<CharacterStats>().isDead)
         {
            EnemyStats enemyState = collision.GetComponent<EnemyStats>();
 

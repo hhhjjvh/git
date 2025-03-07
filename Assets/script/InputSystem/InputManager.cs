@@ -36,6 +36,9 @@ public class InputManager : MonoBehaviour
     private string keyStatus = "按键状态: ";
     public bool canJump { get; set; }
     public bool canAttack { get; set; }
+    public bool attackButtonDown { get; set; }
+    public bool attackButtonHold { get; set; }
+    public bool attackButtonUp { get; set; }
     public bool canDash { get; set; }
     public bool canInteract { get; set; }
     public bool canUseItem { get; set; }
@@ -73,7 +76,8 @@ public class InputManager : MonoBehaviour
         playerInput.Player.Jump.started+= OnJumpStarted;
         playerInput.Player.Jump.canceled += OnJumpCanceled;
         playerInput.Player.Attack.started+= OnAttackStarted;
-        playerInput.Player.Attack.canceled += OnAttackCanceled;
+        playerInput.Player.Attack.performed += OnAttackPerformed;
+        playerInput.Player.Attack.canceled += OnAttackCanceled;      
         playerInput.Player.Dash.started+= OnDashStarted;
         playerInput.Player.Dash.canceled += OnDashCanceled;
         playerInput.Player.Interach.started+= OnInteractStarted;
@@ -99,10 +103,27 @@ public class InputManager : MonoBehaviour
         //RegisterKeyWithEvents("Move", playerInput.Player.Move); // 移动作为整体
     }
 
+    private void OnAttackPerformed(InputAction.CallbackContext context)
+    {
+        attackButtonHold = true;
+    }
+
     private void OnJumpStarted(InputAction.CallbackContext context)=>canJump = true;
     private void OnJumpCanceled(InputAction.CallbackContext context)=>canJump = false;
-    private void OnAttackStarted(InputAction.CallbackContext context)=>canAttack = true;
-    private void OnAttackCanceled(InputAction.CallbackContext context)=>canAttack = false;
+    private void OnAttackStarted(InputAction.CallbackContext context)
+    {
+        canAttack = true;
+        attackButtonDown = true;
+        attackButtonHold = false;
+        attackButtonUp = false;
+    }
+    private void OnAttackCanceled(InputAction.CallbackContext context)
+    {
+        canAttack = false; 
+        attackButtonHold = false;
+        attackButtonUp = true;
+        attackButtonDown = false;
+    }
     private void OnDashStarted(InputAction.CallbackContext context)=>canDash = true;
     private void OnDashCanceled(InputAction.CallbackContext context)=>canDash = false;
     private void OnInteractStarted(InputAction.CallbackContext context)=>canInteract = true;

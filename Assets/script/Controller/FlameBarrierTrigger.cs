@@ -32,6 +32,7 @@ public class FlameBarrierTrigger : MonoBehaviour
                 player.stats.DoMagicDamage(hit.GetComponent<Enemy>().stats, 0.8f);
 
                 AudioManager.instance.PlaySFX(36, null);
+                AttackSense.instance.HitPause(3);
             }
         }
     }
@@ -42,7 +43,9 @@ public class FlameBarrierTrigger : MonoBehaviour
         {
             player.stats.DoMagicDamage(collision.GetComponent<Enemy>().stats, 2f);
             AudioManager.instance.PlaySFX(36, null);
-           // PoolMgr.Instance.Release(gameObject);
+            AttackSense.instance.HitPause(8);
+           
+            // PoolMgr.Instance.Release(gameObject);
         }
     }
 }

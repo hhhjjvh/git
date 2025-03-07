@@ -32,6 +32,7 @@ public class SkillSpecialEffectTrigger : MonoBehaviour
                 player.stats.DoMagicDamage(hit.GetComponent<Enemy>().stats, 1.2f);
 
                 AudioManager.instance.PlaySFX(36, null);
+                AttackSense.instance.HitPause(4);
             }
         }
     }
@@ -46,6 +47,8 @@ public class SkillSpecialEffectTrigger : MonoBehaviour
                 player.stats.DoDamage(hit.GetComponent<Enemy>().stats, 2f);
 
                 AudioManager.instance.PlaySFX(36, null);
+                AttackSense.instance.HitPause(8);
+               
             }
         }
     }
@@ -56,6 +59,7 @@ public class SkillSpecialEffectTrigger : MonoBehaviour
         {
             player.stats.DoDamage(collision.GetComponent<Enemy>().stats, 4f);
             AudioManager.instance.PlaySFX(36, null);
+            AttackSense.instance.HitPause(15);
             // PoolMgr.Instance.Release(gameObject);
         }
     }

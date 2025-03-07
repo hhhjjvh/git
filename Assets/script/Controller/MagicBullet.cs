@@ -87,6 +87,7 @@ public class MagicBullet : MonoBehaviour
         {
             player.stats.DoMagicDamage(collision.GetComponent<Enemy>().stats,0.5f);
             AudioManager.instance.PlaySFX(36,null);
+           // AttackSense.instance.HitPause(1);
             PoolMgr.Instance.Release(gameObject);
         }
     }

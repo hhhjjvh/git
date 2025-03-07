@@ -13,6 +13,8 @@ public class UI : MonoBehaviour, ISaveManager
     [SerializeField] private GameObject craftUI;
     [SerializeField] private GameObject optionUI;
     [SerializeField] private GameObject inGameUI;
+    public ChargeUI ChargeUI;
+
     public GameObject ShopUI;
     public UIFadeScreen fadeScreen;
     public GameObject endText;

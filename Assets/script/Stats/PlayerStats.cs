@@ -36,7 +36,11 @@ public class PlayerStats : CharacterStats, ISaveManager
     protected override void Update()
     {
         base.Update();
-       
+
+        //if (Input.GetKeyDown(KeyCode.L))
+        //{
+        //    AddExperience(100000);
+        //}
 
         if (Timer > 0)
         {
@@ -111,6 +115,7 @@ public class PlayerStats : CharacterStats, ISaveManager
             player.entityFX.CreatePopUpText("等级提升", Color.green);
             PoolMgr.Instance.GetObj("Lv_op", transform.position, Quaternion.identity);
             AudioManager.instance.PlaySFX(35, null);
+            AddExperience(0);//防止经验溢出
         }
 
     }

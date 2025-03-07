@@ -41,9 +41,91 @@ public class EntityFX : MonoBehaviour
     [SerializeField] private float colorLooseRate;
     [SerializeField] private float AfterImageCooldown;
     private float afterImageTimer;
+    #region Charge Particles
+    [Header("Charge Particles")]
+    [SerializeField] private ParticleSystem chargeBaseParticles;
+    [SerializeField] private ParticleSystem chargeStage1Particles;
+    [SerializeField] private ParticleSystem chargeStage2Particles;
+    [SerializeField] private ParticleSystem chargeStage3Particles;
+    [SerializeField] private ParticleSystem chargeCompleteParticles;
 
+    [Header("Attack Particles")]
+    [SerializeField] private ParticleSystem attackImpactParticles;
+    [SerializeField] private ParticleSystem attackTrailParticles;
+    // 蓄力特效控制
 
+    public void StartChargeEffect(int stage)
+    {
+        StopAllChargeParticles();
 
+        switch (stage)
+        {
+            case 1:
+                chargeBaseParticles.Play();
+                chargeStage1Particles.Play();
+                break;
+            case 2:
+                chargeStage1Particles.Stop();
+                chargeStage2Particles.Play();
+                break;
+            case 3:
+                chargeStage2Particles.Stop();
+                chargeStage3Particles.Play();
+                break;
+        }
+    }
+
+    public void StopChargeEffect(bool immediate = false)
+    {
+        if (immediate)
+        {
+            chargeBaseParticles.Stop();
+            chargeStage1Particles.Stop();
+            chargeStage2Particles.Stop();
+            chargeStage3Particles.Stop();
+        }
+        else
+        {
+            chargeBaseParticles.Stop(true, ParticleSystemStopBehavior.StopEmitting);
+            chargeStage1Particles.Stop(true, ParticleSystemStopBehavior.StopEmitting);
+            chargeStage2Particles.Stop(true, ParticleSystemStopBehavior.StopEmitting);
+            chargeStage3Particles.Stop(true, ParticleSystemStopBehavior.StopEmitting);
+        }
+    }
+
+    public void PlayChargeCompleteEffect()
+    {
+        chargeCompleteParticles.Play();
+    }
+
+    // 攻击特效控制
+    public void PlayAttackImpact(Vector3 position)
+    {
+        attackImpactParticles.transform.position = position;
+        attackImpactParticles.Play();
+    }
+
+    public void StartAttackTrail()
+    {
+        attackTrailParticles.Play();
+    }
+
+    public void StopAttackTrail()
+    {
+        attackTrailParticles.Stop();
+    }
+
+    private void StopAllChargeParticles()
+    {
+        chargeBaseParticles.Stop();
+        chargeStage1Particles.Stop();
+        chargeStage2Particles.Stop();
+        chargeStage3Particles.Stop();
+        chargeCompleteParticles.Stop();
+       
+    }
+
+#endregion
     // Start is called before the first frame update
     void Start()
     {

@@ -16,9 +16,9 @@ public class EnemyBattleState : EnemyState
     public override void Enter()
     {
         base.Enter();
-
+        // stateTimer = enemy.battleTime;
         //enemy.moveSpeed *= 3;
-
+        stateTimer = 0.5f;
     }
 
     public override void Exit()
@@ -64,7 +64,7 @@ public class EnemyBattleState : EnemyState
         }
         else
         {
-            if (Vector2.Distance(AttackEntity.transform.position, enemy.transform.position) > enemy.chaseDistance)
+            if (Vector2.Distance(AttackEntity.transform.position, enemy.transform.position) > enemy.chaseDistance&& stateTimer<0)
             {
                 stateMachine.ChangeState(enemy.idleState);
             }

@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 8539974008652468009}
   - component: {fileID: 310436019047066639}
   - component: {fileID: 8517355789367301598}
-  - component: {fileID: 4998751676184644235}
   m_Layer: 0
   m_Name: Animator
   m_TagString: Untagged
@@ -75,7 +74,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -81699343
-  m_SortingLayer: 5
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0a691d592ecfd4142af58dfcd8c242b0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -110,18 +109,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &4998751676184644235
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3265722774379117776}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 515d0bede52eba34dadeba0061143fcf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &6897924951622538135
 GameObject:
   m_ObjectHideFlags: 0

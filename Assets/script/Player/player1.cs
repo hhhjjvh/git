@@ -4,12 +4,14 @@ using UnityEngine;
 public class player1 : entity
 {
     public PlayerItemDrop itemDrop;
+    public ChargeAttackData chargeAttackData;
     [SerializeField] public Vector2 knockback;
 
     [Header("Attack info")]
     public float[] attackMovement;
     public Vector2[] attackKnockback;
     public float counterattackDuration;
+    public float lastAttackTime { get; set; }
 
     public bool isBusy { get; private set; }
     [Header("Move info")]
@@ -66,6 +68,13 @@ public class player1 : entity
     public PlayerWallJumpState wallJumpState { get; private set; }
     public PlayerPriimaryAttackState primaryAttackState { get; private set; }
     public PlayerCounterAttackState counterAttackState { get; private set; }
+    public PlayerPreChargeState preChargeState { get; private set; }
+    public  PlayerChargeAttackState chargeAttackState  { get; private set; }
+    public ChargedAttackLv1 chargedAttackStateLv1 { get; private set; }
+    public ChargedAttackLv2 chargedAttackStateLv2 { get; private set; }
+    public ChargedAttackLv3 chargedAttackStateLv3 { get; private set; }
+    public PlayerSuperChargeAttackState superChargeAttackState { get; private set; }
+
     public PlayerAimSwordState aimSwordState { get; private set; }
     public PlayerCathSwordState cathSwordState { get; private set; }
     public PlayerBlackholeState blackholeState { get; private set; }
@@ -96,6 +105,12 @@ public class player1 : entity
         wallJumpState = new PlayerWallJumpState(stateMachine, this, "Jump");
         primaryAttackState = new PlayerPriimaryAttackState(stateMachine, this, "Attack");
         counterAttackState = new PlayerCounterAttackState(stateMachine, this, "ContterAttack");
+        chargeAttackState = new PlayerChargeAttackState(stateMachine, this, "ChargeAttack");
+        preChargeState = new PlayerPreChargeState(stateMachine, this);
+        chargedAttackStateLv1 = new ChargedAttackLv1(stateMachine, this);
+        chargedAttackStateLv2 = new ChargedAttackLv2(stateMachine, this);
+        chargedAttackStateLv3 = new ChargedAttackLv3(stateMachine, this);
+        superChargeAttackState = new PlayerSuperChargeAttackState(stateMachine, this);
         aimSwordState = new PlayerAimSwordState(stateMachine, this, "AimSword");
         cathSwordState = new PlayerCathSwordState(stateMachine, this, "CathSword");
         blackholeState = new PlayerBlackholeState(stateMachine, this, "Jump");

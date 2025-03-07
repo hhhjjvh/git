@@ -56,7 +56,7 @@ public class EnemyHitState : EnemyState
         }
         if (stateTimer < 0 )
         {
-            stateMachine.ChangeState(enemy.idleState);
+            stateMachine.ChangeState(enemy.battleState);
             
         }
         if (enemy.IsGroundedDetected() && enemy.bigHitState.isCanBigHit)
